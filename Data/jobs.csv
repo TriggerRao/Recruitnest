@@ -1,0 +1,1001 @@
+Job_ID,Company_ID,Role,Salary,Location,Type,Status
+39824,50605,Social Worker,1648500,"Hong Kong, China",job_type.remote_part_time,job_status.vacant
+44909,81311,Human Resources Manager,535000,"Ho Chi Minh City, Vietnam",job_type.onsite_full_time,job_status.vacant
+82918,76515,Insurance Agent,5159500,"Cleveland, USA",job_type.onsite_full_time,job_status.vacant
+13097,98956,Software Tester,3130300,"Jaipur, India",job_type.onsite_full_time,job_status.vacant
+97373,63656,Environmental Scientist,1202800,"Baton Rouge, USA",job_type.onsite_full_time,job_status.vacant
+79606,20995,Retail Manager,495300,"Dubai, UAE",job_type.onsite_full_time,job_status.vacant
+43413,40187,Business Development Manager,2773600,"Santa Ana, USA",job_type.onsite_full_time,job_status.vacant
+83324,82382,Quality Assurance Engineer,7990500,"Helsinki, Finland",job_type.remote_part_time,job_status.vacant
+53581,23873,Event Planner,248500,"Santa Ana, USA",job_type.remote_full_time,job_status.vacant
+71304,5991,Account Coordinator,1916400,"Shanghai, China",job_type.onsite_full_time,job_status.vacant
+81978,52093,HR Director,4998600,"Stockton, USA",job_type.onsite_full_time,job_status.vacant
+34915,59022,Market Research Assistant,8675600,"Venice, Italy",job_type.onsite_full_time,job_status.vacant
+48390,13227,Social Media Coordinator,5175100,"Yonkers, USA",job_type.onsite_part_time,job_status.vacant
+41162,22899,Dental Assistant,3950800,"Atlanta, USA",job_type.onsite_full_time,job_status.vacant
+83723,10610,Systems Analyst,2782400,"North Las Vegas, USA",job_type.onsite_full_time,job_status.vacant
+39023,88190,Business Analyst,4304200,"Sydney, Australia",job_type.remote_full_time,job_status.vacant
+68058,13567,Architect,1531100,"Winston-Salem, USA",job_type.remote_part_time,job_status.vacant
+24713,88190,Customer Success Manager,2871300,"London, England",job_type.remote_part_time,job_status.vacant
+45663,39087,HR Specialist,8035900,"Fort Wayne, USA",job_type.onsite_full_time,job_status.vacant
+84721,34338,Data Analyst,884500,"Birmingham, USA",job_type.remote_part_time,job_status.vacant
+10631,44013,Public Accountant,3967000,"St. Paul, USA",job_type.onsite_part_time,job_status.vacant
+94039,30000,Software Tester,8580900,"Milwaukee, USA",job_type.onsite_full_time,job_status.vacant
+42727,81829,Administrative Assistant,3988000,"Virginia Beach, USA",job_type.onsite_part_time,job_status.vacant
+97514,8539,Insurance Underwriter,5372700,"Lubbock, USA",job_type.onsite_full_time,job_status.vacant
+26821,39197,Operations Manager,9826900,"Riyadh, Saudi Arabia",job_type.onsite_full_time,job_status.vacant
+21807,91043,Supply Chain Analyst,5386600,"Vancouver, Canada",job_type.remote_full_time,job_status.vacant
+50439,72160,Account Coordinator,7916800,"Fremont, USA",job_type.remote_part_time,job_status.vacant
+10932,4713,Multimedia Artist,3970700,"Scottsdale, USA",job_type.onsite_part_time,job_status.vacant
+98077,49186,Financial Advisor,6439700,"Moscow, Russia",job_type.onsite_full_time,job_status.vacant
+62854,82461,Data Entry Clerk,6712900,"Honolulu, USA",job_type.onsite_full_time,job_status.vacant
+88735,5834,Copywriter,2002100,"Austin, USA",job_type.remote_part_time,job_status.vacant
+24026,94106,Research Assistant,9038600,"Oklahoma City, USA",job_type.remote_part_time,job_status.vacant
+71384,19218,Brand Strategist,6379000,"Amsterdam, Netherlands",job_type.remote_part_time,job_status.vacant
+24122,34502,Production Supervisor,7057300,"Santiago, Chile",job_type.onsite_part_time,job_status.vacant
+14406,79254,Network Engineer,6314700,"Lisbon, Portugal",job_type.onsite_part_time,job_status.vacant
+867,4713,Software Developer,9507500,"San Antonio, USA",job_type.remote_full_time,job_status.vacant
+1829,35155,Business Development Manager,9257500,"New Orleans, USA",job_type.onsite_part_time,job_status.vacant
+51950,17694,Account Coordinator,1658500,"Moscow, Russia",job_type.onsite_part_time,job_status.vacant
+84868,80656,Database Administrator,1827200,"Singapore City, Singapore",job_type.remote_part_time,job_status.vacant
+65081,62823,Event Planner,5333400,"Oslo, Norway",job_type.onsite_full_time,job_status.vacant
+41945,71222,Civil Engineer,4635000,"Bucharest, Romania",job_type.onsite_part_time,job_status.vacant
+18189,56867,Copywriter,363000,"North Las Vegas, USA",job_type.remote_part_time,job_status.vacant
+88627,70427,Sales Manager,9287800,"Orlando, USA",job_type.remote_full_time,job_status.vacant
+66729,48079,IT Project Manager,200200,"Oslo, Norway",job_type.onsite_part_time,job_status.vacant
+72628,9916,User Interface Designer,5986300,"Beirut, Lebanon",job_type.onsite_full_time,job_status.vacant
+92859,80294,Systems Engineer,1476000,"Brussels, Belgium",job_type.onsite_part_time,job_status.vacant
+87057,83911,Medical Billing Specialist,9429500,"Oakland, USA",job_type.remote_part_time,job_status.vacant
+70887,96774,Nurse Manager,8876900,"Brussels, Belgium",job_type.onsite_full_time,job_status.vacant
+58470,97028,Product Owner,9928600,"Bakersfield, USA",job_type.onsite_part_time,job_status.vacant
+88193,5061,Customer Support Specialist,5968100,"Zurich, Switzerland",job_type.remote_full_time,job_status.vacant
+15547,27486,Biomedical Engineer,9013200,"Oslo, Norway",job_type.remote_part_time,job_status.vacant
+27910,82267,HR Assistant,3505300,"Bologna, Italy",job_type.onsite_full_time,job_status.vacant
+93288,15223,Medical Office Manager,104400,"Tulsa, USA",job_type.onsite_full_time,job_status.vacant
+68600,91301,Production Supervisor,6471400,"Hong Kong, China",job_type.remote_part_time,job_status.vacant
+80040,59022,Financial Risk Analyst,2624400,"Tulsa, USA",job_type.remote_full_time,job_status.vacant
+89867,23465,Mechanical Engineer,887900,"Edinburgh, Scotland",job_type.onsite_full_time,job_status.vacant
+15430,41932,Business Development Coordinator,1251300,"Milwaukee, USA",job_type.remote_full_time,job_status.vacant
+58776,42943,Product Manager,6401100,"Xi'an, China",job_type.onsite_full_time,job_status.vacant
+20927,31349,HR Recruiter,6340000,"Madison, USA",job_type.remote_full_time,job_status.vacant
+46604,213,Graphic Designer,7647900,"Moscow, Russia",job_type.onsite_full_time,job_status.vacant
+76673,83911,Financial Planner,9996100,"Mexico City, Mexico",job_type.remote_full_time,job_status.vacant
+83064,71737,Medical Assistant,3422100,"Adelaide, Australia",job_type.remote_full_time,job_status.vacant
+63170,67746,Legal Analyst,7164000,"Tel Aviv, Israel",job_type.onsite_part_time,job_status.vacant
+38285,5216,Investment Advisor,5105700,"Santiago, Chile",job_type.onsite_part_time,job_status.vacant
+4564,44013,Marketing Coordinator,8572600,"Helsinki, Finland",job_type.remote_part_time,job_status.vacant
+59639,70427,Project Manager,3976100,"Bakersfield, USA",job_type.onsite_part_time,job_status.vacant
+89369,50900,Marketing Analyst,297900,"Prague, Czech Republic",job_type.remote_full_time,job_status.vacant
+28738,62823,IT Consultant,9121200,"Adelaide, Australia",job_type.onsite_full_time,job_status.vacant
+47416,89657,Regulatory Affairs Specialist,557200,"Florence, Italy",job_type.onsite_part_time,job_status.vacant
+71893,49858,Insurance Agent,902800,"Corpus Christi, USA",job_type.onsite_full_time,job_status.vacant
+90186,98020,Network Administrator,2000500,"San Bernardino, USA",job_type.remote_part_time,job_status.vacant
+45996,79254,Customer Service Representative,3979100,"San Jose, USA",job_type.onsite_full_time,job_status.vacant
+29489,98020,Content Manager,7120300,"Cologne, Germany",job_type.onsite_full_time,job_status.vacant
+35509,70548,Financial Risk Analyst,4414600,"Richmond, USA",job_type.onsite_part_time,job_status.vacant
+56119,70548,Medical Office Manager,6021300,"Lincoln, USA",job_type.onsite_full_time,job_status.vacant
+44565,23465,IT Administrator,9734400,"Tacoma, USA",job_type.remote_part_time,job_status.vacant
+61626,5413,Research Assistant,4687100,"Greensboro, USA",job_type.onsite_full_time,job_status.vacant
+95789,98856,Operations Manager,6651600,"Fort Wayne, USA",job_type.remote_part_time,job_status.vacant
+49130,20995,Real Estate Agent,1649100,"Zurich, Switzerland",job_type.remote_full_time,job_status.vacant
+20811,213,Business Analyst,9508500,"Riverside, USA",job_type.remote_part_time,job_status.vacant
+60367,61483,Marketing Manager,9402800,"Portland, USA",job_type.onsite_full_time,job_status.vacant
+27600,31001,Research Coordinator,9525500,"Seattle, USA",job_type.remote_part_time,job_status.vacant
+45164,80507,Sales Coordinator,9975300,"Moscow, Russia",job_type.onsite_part_time,job_status.vacant
+3356,81311,Account Manager,4755200,"Chula Vista, USA",job_type.remote_part_time,job_status.vacant
+64551,80666,Business Development Coordinator,9458700,"Doha, Qatar",job_type.remote_part_time,job_status.vacant
+91346,59022,Physical Therapist,1411900,"Fresno, USA",job_type.remote_full_time,job_status.vacant
+38407,72737,Data Scientist,5362100,"Dubai, UAE",job_type.remote_full_time,job_status.vacant
+12720,276,Medical Technologist,9417100,"Riyadh, Saudi Arabia",job_type.onsite_part_time,job_status.vacant
+86064,18869,HR Director,527400,"Milwaukee, USA",job_type.remote_full_time,job_status.vacant
+15092,71362,Technical Support Specialist,2258500,"Norfolk, USA",job_type.onsite_full_time,job_status.vacant
+43041,98020,IT Security Specialist,7950900,"Honolulu, USA",job_type.onsite_full_time,job_status.vacant
+46971,81213,Product Marketing Manager,9721900,"Charlotte, USA",job_type.remote_part_time,job_status.vacant
+24840,47708,Content Writer,6691900,"Amsterdam, Netherlands",job_type.remote_part_time,job_status.vacant
+96580,76334,Physical Therapist,8448400,"Xi'an, China",job_type.onsite_full_time,job_status.vacant
+11909,30679,Recruiting Coordinator,1283200,"Rio de Janeiro, Brazil",job_type.remote_full_time,job_status.vacant
+77348,40315,Business Analyst,955400,"Kuala Lumpur, Malaysia",job_type.onsite_full_time,job_status.vacant
+44997,6045,Legal Assistant,5739700,"Kansas City, USA",job_type.onsite_full_time,job_status.vacant
+65802,35142,Lawyer,9096900,"Toronto, Canada",job_type.remote_part_time,job_status.vacant
+1337,52528,Business Analyst,4599900,"St. Paul, USA",job_type.remote_part_time,job_status.vacant
+21632,13567,Business Analyst,8744200,"Orlando, USA",job_type.remote_full_time,job_status.vacant
+80727,6045,Public Relations Coordinator,600100,"Houston, USA",job_type.remote_full_time,job_status.vacant
+410,79254,Dental Hygienist,572400,"Auckland, New Zealand",job_type.remote_part_time,job_status.vacant
+39865,50885,Compliance Officer,1996500,"Cairo, Egypt",job_type.onsite_part_time,job_status.vacant
+75715,76334,Systems Engineer,7103700,"Brussels, Belgium",job_type.remote_full_time,job_status.vacant
+16421,49186,Business Consultant,9936300,"Buenos Aires, Argentina",job_type.onsite_full_time,job_status.vacant
+48397,8321,Software Tester,6269400,"Nairobi, Kenya",job_type.remote_part_time,job_status.vacant
+46051,31445,Physical Therapy Assistant,4551100,"San Bernardino, USA",job_type.onsite_part_time,job_status.vacant
+98349,98956,Systems Administrator,7179900,"Buenos Aires, Argentina",job_type.remote_part_time,job_status.vacant
+39074,70400,Physician Assistant,6110100,"Tacoma, USA",job_type.remote_part_time,job_status.vacant
+70078,81829,Legal Assistant,3088200,"Omaha, USA",job_type.remote_full_time,job_status.vacant
+92769,50925,Account Coordinator,3013700,"Fresno, USA",job_type.onsite_part_time,job_status.vacant
+93772,47708,Insurance Agent,2879300,"Tacoma, USA",job_type.remote_full_time,job_status.vacant
+91477,44556,Biomedical Engineer,1253400,"Omaha, USA",job_type.onsite_part_time,job_status.vacant
+12549,48407,Quality Assurance Analyst,3721600,"Albuquerque, USA",job_type.onsite_part_time,job_status.vacant
+62104,34863,Software Developer,9996200,"Buffalo, USA",job_type.onsite_part_time,job_status.vacant
+4811,34338,Insurance Agent,3962500,"Paris, France",job_type.onsite_full_time,job_status.vacant
+53298,23985,Environmental Engineer,8583000,"Barcelona, Spain",job_type.onsite_full_time,job_status.vacant
+96231,5413,Web Developer,255800,"Albuquerque, USA",job_type.remote_full_time,job_status.vacant
+30981,19218,Software Engineer,8538900,"Orlando, USA",job_type.remote_full_time,job_status.vacant
+94046,39792,IT Analyst,9210600,"Norfolk, USA",job_type.remote_part_time,job_status.vacant
+84822,34502,Event Manager,2206700,"Irving, USA",job_type.remote_full_time,job_status.vacant
+26833,62823,Marketing Specialist,3762900,"Madrid, Spain",job_type.remote_full_time,job_status.vacant
+1167,10610,Market Research Analyst,6873400,"Long Beach, USA",job_type.onsite_full_time,job_status.vacant
+46362,69715,Medical Billing Specialist,6668700,"Hong Kong, China",job_type.remote_part_time,job_status.vacant
+96276,56949,Supply Chain Analyst,8081100,"Lima, Peru",job_type.remote_full_time,job_status.vacant
+27262,80666,Physical Therapy Assistant,183500,"Dar es Salaam, Tanzania",job_type.remote_part_time,job_status.vacant
+63261,17808,Operations Coordinator,5856500,"Sacramento, USA",job_type.remote_part_time,job_status.vacant
+9024,94106,Legal Analyst,7183800,"Lexington, USA",job_type.onsite_full_time,job_status.vacant
+41438,48431,Talent Acquisition Specialist,2462800,"Fort Wayne, USA",job_type.onsite_full_time,job_status.vacant
+95639,52530,Research Scientist,4371500,"Oxnard, USA",job_type.onsite_full_time,job_status.vacant
+53689,82461,Interior Decorator,2892600,"Kansas City, USA",job_type.remote_full_time,job_status.vacant
+25213,88136,Copywriter,7771100,"Abuja, Nigeria",job_type.onsite_part_time,job_status.vacant
+25357,81213,Public Relations Specialist,3813700,"Jacksonville, USA",job_type.remote_part_time,job_status.vacant
+64957,48542,Healthcare Administrator,3578700,"Des Moines, USA",job_type.remote_part_time,job_status.vacant
+97482,16706,Legal Researcher,4404000,"Aurora, USA",job_type.remote_full_time,job_status.vacant
+10381,81213,Marketing Coordinator,2168700,"Paris, France",job_type.onsite_part_time,job_status.vacant
+34537,71362,IT Administrator,6761900,"Indianapolis, USA",job_type.onsite_part_time,job_status.vacant
+10020,5413,Dental Hygienist,3804400,"Lisbon, Portugal",job_type.remote_full_time,job_status.vacant
+56942,76875,Business Development Coordinator,9109800,"Moscow, Russia",job_type.remote_full_time,job_status.vacant
+58819,35155,IT Technician,936100,"Durham, USA",job_type.onsite_part_time,job_status.vacant
+96091,14547,IT Analyst,3554500,"Durham, USA",job_type.onsite_part_time,job_status.vacant
+72103,1498,Graphic Artist,7801100,"Baltimore, USA",job_type.onsite_part_time,job_status.vacant
+2448,79254,Research Assistant,8549600,"Seville, Spain",job_type.remote_full_time,job_status.vacant
+5963,79254,Market Analyst,9265100,"Oslo, Norway",job_type.onsite_part_time,job_status.vacant
+55416,19248,Market Research Manager,1663000,"Auckland, New Zealand",job_type.onsite_part_time,job_status.vacant
+33368,93094,HR Generalist,3614900,"Stockholm, Sweden",job_type.onsite_part_time,job_status.vacant
+36119,56867,Talent Acquisition Specialist,7075400,"Nice, France",job_type.onsite_part_time,job_status.vacant
+31179,71362,Financial Auditor,4146200,"Mesa, USA",job_type.onsite_full_time,job_status.vacant
+94543,50900,Insurance Agent,8212100,"Jersey City, USA",job_type.onsite_part_time,job_status.vacant
+44161,59276,Systems Analyst,8803100,"Tacoma, USA",job_type.onsite_full_time,job_status.vacant
+27592,70400,Business Consultant,1800600,"Amsterdam, Netherlands",job_type.onsite_part_time,job_status.vacant
+80990,1695,Lawyer,3019100,"Stockton, USA",job_type.onsite_part_time,job_status.vacant
+73937,70386,Nurse Practitioner,5923800,"Warsaw, Poland",job_type.onsite_part_time,job_status.vacant
+16689,93585,Supply Chain Coordinator,2383900,"Oakland, USA",job_type.remote_part_time,job_status.vacant
+29358,14363,Retail Manager,9940700,"Wichita, USA",job_type.onsite_part_time,job_status.vacant
+43806,70634,Dental Hygienist,5205400,"Anaheim, USA",job_type.remote_full_time,job_status.vacant
+53,49858,Digital Content Creator,9917400,"Florence, Italy",job_type.onsite_part_time,job_status.vacant
+23523,99593,Product Owner,7037300,"Zurich, Switzerland",job_type.remote_part_time,job_status.vacant
+80254,62823,Network Administrator,2907100,"Cincinnati, USA",job_type.onsite_full_time,job_status.vacant
+84251,84040,IT Consultant,6008800,"Porto, Portugal",job_type.onsite_full_time,job_status.vacant
+95180,99593,Event Planner,5766900,"Kuala Lumpur, Malaysia",job_type.remote_part_time,job_status.vacant
+89505,83904,Marketing Specialist,957700,"Irvine, USA",job_type.remote_full_time,job_status.vacant
+2829,56146,Data Entry Clerk,7537300,"Jersey City, USA",job_type.remote_part_time,job_status.vacant
+369,96774,Logistics Coordinator,9858400,"Chengdu, China",job_type.onsite_full_time,job_status.vacant
+3267,49858,User Interface Designer,3225900,"Kuala Lumpur, Malaysia",job_type.onsite_part_time,job_status.vacant
+21427,41932,Marketing Communications Manager,1221700,"Munich, Germany",job_type.onsite_part_time,job_status.vacant
+73211,23985,Market Research Manager,1235700,"Glendale, USA",job_type.onsite_part_time,job_status.vacant
+17606,23465,Regulatory Affairs Specialist,9221000,"Sydney, Australia",job_type.onsite_part_time,job_status.vacant
+56250,82461,IT Auditor,1305100,"Mesa, USA",job_type.remote_part_time,job_status.vacant
+17717,2449,IT Project Manager,8698000,"Chula Vista, USA",job_type.onsite_part_time,job_status.vacant
+84958,80507,Legal Assistant,7539000,"Virginia Beach, USA",job_type.onsite_full_time,job_status.vacant
+75327,18869,Digital Content Creator,8940200,"Kyoto, Japan",job_type.onsite_full_time,job_status.vacant
+74497,66589,Sales Associate,9343800,"Santiago, Chile",job_type.onsite_full_time,job_status.vacant
+36608,87831,Architect,9789900,"Warsaw, Poland",job_type.onsite_full_time,job_status.vacant
+69785,56412,Business Development Manager,777600,"Seville, Spain",job_type.onsite_part_time,job_status.vacant
+19208,19052,Multimedia Artist,9013700,"Berlin, Germany",job_type.remote_part_time,job_status.vacant
+43604,17808,Customer Experience Manager,6227200,"Madison, USA",job_type.onsite_part_time,job_status.vacant
+63837,45130,Recruitment Specialist,5132700,"Seoul, South Korea",job_type.onsite_part_time,job_status.vacant
+32118,70864,UX Designer,9207600,"Cologne, Germany",job_type.onsite_full_time,job_status.vacant
+45644,78538,Operations Supervisor,166400,"Gilbert, USA",job_type.onsite_part_time,job_status.vacant
+61793,94380,Insurance Underwriter,3105800,"Prague, Czech Republic",job_type.remote_part_time,job_status.vacant
+87370,14622,Environmental Scientist,2967500,"Adelaide, Australia",job_type.remote_part_time,job_status.vacant
+57857,93094,Supply Chain Analyst,5356700,"Durham, USA",job_type.onsite_part_time,job_status.vacant
+46123,71515,Copywriter,699500,"Nice, France",job_type.onsite_part_time,job_status.vacant
+12915,56550,Sales Associate,8033200,"Portland, USA",job_type.remote_full_time,job_status.vacant
+52463,5808,Social Media Manager,603700,"Nairobi, Kenya",job_type.onsite_part_time,job_status.vacant
+61856,42509,Brand Strategist,9727800,"Greensboro, USA",job_type.onsite_part_time,job_status.vacant
+68315,46976,Data Analyst,5872200,"Bogotá, Colombia",job_type.remote_full_time,job_status.vacant
+7721,12977,Market Research Analyst,7397400,"Riyadh, Saudi Arabia",job_type.onsite_full_time,job_status.vacant
+77609,10584,Environmental Scientist,1955200,"Memphis, USA",job_type.onsite_full_time,job_status.vacant
+59686,31445,HR Director,1910200,"Toledo, USA",job_type.remote_part_time,job_status.vacant
+51932,67746,Network Analyst,5263600,"Omaha, USA",job_type.remote_part_time,job_status.vacant
+4215,9259,IT Auditor,9192400,"Amsterdam, Netherlands",job_type.remote_part_time,job_status.vacant
+31794,5834,Legal Researcher,8726900,"Munich, Germany",job_type.remote_part_time,job_status.vacant
+56898,23985,Nurse Manager,2632700,"Buenos Aires, Argentina",job_type.remote_full_time,job_status.vacant
+7585,42897,Social Worker,3195300,"Riyadh, Saudi Arabia",job_type.remote_part_time,job_status.vacant
+25408,8321,Accountant,6792800,"Nice, France",job_type.remote_part_time,job_status.vacant
+71636,9916,Market Research Analyst,5182500,"Budapest, Hungary",job_type.remote_full_time,job_status.vacant
+18682,89657,Project Manager,4446900,"Saint Petersburg, Russia",job_type.remote_part_time,job_status.vacant
+30691,99593,Legal Counsel,145800,"Chengdu, China",job_type.onsite_full_time,job_status.vacant
+83692,66608,Pharmacist,4584400,"Cologne, Germany",job_type.onsite_part_time,job_status.vacant
+50467,84040,Recruitment Specialist,3982200,"Munich, Germany",job_type.remote_full_time,job_status.vacant
+23103,50900,Civil Engineer,8529300,"Oslo, Norway",job_type.onsite_full_time,job_status.vacant
+57936,39197,Speech-Language Pathologist,4254600,"Philadelphia, USA",job_type.onsite_full_time,job_status.vacant
+96389,1695,Graphic Designer,3433700,"Shanghai, China",job_type.remote_full_time,job_status.vacant
+28339,50379,Tax Preparer,8396700,"Edinburgh, Scotland",job_type.remote_full_time,job_status.vacant
+58958,89079,Purchasing Manager,7886000,"Moscow, Russia",job_type.onsite_part_time,job_status.vacant
+22988,64735,IT Support Specialist,8767600,"Lexington, USA",job_type.onsite_full_time,job_status.vacant
+44758,86446,Marketing Specialist,908700,"San Jose, USA",job_type.onsite_full_time,job_status.vacant
+33900,27355,Public Relations Manager,9627000,"Las Vegas, USA",job_type.remote_part_time,job_status.vacant
+20699,49858,Financial Analyst,4116600,"Boise, USA",job_type.remote_full_time,job_status.vacant
+20512,34910,Nurse Manager,6328900,"Lubbock, USA",job_type.remote_part_time,job_status.vacant
+57607,41181,Legal Assistant,1670400,"Buffalo, USA",job_type.remote_full_time,job_status.vacant
+32021,21063,Financial Analyst,9873100,"Miami, USA",job_type.remote_full_time,job_status.vacant
+75009,10610,Human Resources Manager,2500600,"Fresno, USA",job_type.onsite_full_time,job_status.vacant
+47260,83911,Physical Therapy Assistant,2630700,"New York City, USA",job_type.remote_full_time,job_status.vacant
+8517,81213,Technical Support Specialist,7799300,"Irving, USA",job_type.onsite_part_time,job_status.vacant
+75371,5808,Cybersecurity Engineer,1195300,"Florence, Italy",job_type.remote_part_time,job_status.vacant
+21630,8786,Pharmacist,3418600,"Barcelona, Spain",job_type.remote_part_time,job_status.vacant
+21367,98956,Financial Planner,7752200,"Stockton, USA",job_type.onsite_full_time,job_status.vacant
+7966,6045,Financial Analyst,5189500,"Reno, USA",job_type.remote_part_time,job_status.vacant
+11512,31349,Marketing Communications Manager,8415100,"Guangzhou, China",job_type.remote_full_time,job_status.vacant
+39138,50605,Account Coordinator,7472600,"Madison, USA",job_type.onsite_part_time,job_status.vacant
+100000,55853,Sales Manager,3218700,"Anaheim, USA",job_type.onsite_full_time,job_status.vacant
+3348,23985,Marketing Coordinator,5196600,"Bangkok, Thailand",job_type.remote_part_time,job_status.vacant
+1881,49858,IT Security Analyst,5847800,"Tucson, USA",job_type.onsite_full_time,job_status.vacant
+74347,71515,Nurse Practitioner,9991500,"Bangkok, Thailand",job_type.onsite_full_time,job_status.vacant
+93634,89657,Quality Assurance Engineer,6803300,"Toronto, Canada",job_type.onsite_full_time,job_status.vacant
+70011,42897,HR Assistant,8135500,"San Antonio, USA",job_type.onsite_part_time,job_status.vacant
+70380,3890,Software Engineer,2925200,"Doha, Qatar",job_type.remote_full_time,job_status.vacant
+34444,41932,Medical Records Clerk,9817200,"Zurich, Switzerland",job_type.onsite_full_time,job_status.vacant
+38496,30099,Legal Secretary,751900,"Buenos Aires, Argentina",job_type.onsite_full_time,job_status.vacant
+40560,35142,Sales Representative,9749400,"Venice, Italy",job_type.onsite_part_time,job_status.vacant
+66749,70864,Customer Support Specialist,6236600,"Oklahoma City, USA",job_type.remote_full_time,job_status.vacant
+27652,48407,Sales Support Specialist,3747100,"Stockton, USA",job_type.onsite_full_time,job_status.vacant
+29682,22617,IT Security Specialist,8470900,"Fort Wayne, USA",job_type.onsite_part_time,job_status.vacant
+12311,76875,Corporate Trainer,5684400,"Perth, Australia",job_type.remote_full_time,job_status.vacant
+54697,98302,Customer Experience Manager,6185300,"Lexington, USA",job_type.onsite_part_time,job_status.vacant
+20104,63492,Insurance Broker,5067700,"Fayetteville, USA",job_type.onsite_part_time,job_status.vacant
+10423,80656,Biomedical Engineer,3794800,"Oakland, USA",job_type.onsite_full_time,job_status.vacant
+80755,39087,User Interface Designer,1859700,"Lexington, USA",job_type.onsite_part_time,job_status.vacant
+59956,79254,Legal Secretary,2348100,"Orlando, USA",job_type.remote_full_time,job_status.vacant
+25047,98302,Market Research Assistant,4612800,"St. Louis, USA",job_type.onsite_part_time,job_status.vacant
+27916,22899,Financial Auditor,1096300,"Cape Town, South Africa",job_type.onsite_full_time,job_status.vacant
+19976,15223,HR Recruiter,2191800,"Fayetteville, USA",job_type.onsite_part_time,job_status.vacant
+92302,8321,Technical Support Specialist,3309400,"Irving, USA",job_type.remote_part_time,job_status.vacant
+27402,5808,IT Manager,9522800,"Reno, USA",job_type.onsite_part_time,job_status.vacant
+60986,47327,Customer Support Specialist,5409800,"Marseille, France",job_type.remote_full_time,job_status.vacant
+40472,34863,Quality Assurance Analyst,8168000,"Norfolk, USA",job_type.remote_full_time,job_status.vacant
+81320,74230,Registered Nurse,5435500,"Cairo, Egypt",job_type.remote_part_time,job_status.vacant
+85571,23985,Medical Records Clerk,6405900,"North Las Vegas, USA",job_type.onsite_part_time,job_status.vacant
+90027,18207,Healthcare Administrator,593300,"Corpus Christi, USA",job_type.remote_part_time,job_status.vacant
+13738,71222,Brand Manager,8120200,"Tampa, USA",job_type.onsite_part_time,job_status.vacant
+29514,76334,Supply Chain Specialist,9337200,"Budapest, Hungary",job_type.remote_part_time,job_status.vacant
+15649,58983,IT Consultant,3430800,"Bakersfield, USA",job_type.onsite_part_time,job_status.vacant
+99974,49858,Financial Manager,5572800,"Nairobi, Kenya",job_type.onsite_full_time,job_status.vacant
+17464,12977,Systems Administrator,3203500,"Lexington, USA",job_type.remote_full_time,job_status.vacant
+97128,42509,Financial Analyst,6186600,"Chesapeake, USA",job_type.onsite_full_time,job_status.vacant
+36814,17808,Graphic Artist,2066800,"Dallas, USA",job_type.remote_full_time,job_status.vacant
+90990,96774,Physical Therapy Assistant,9062600,"Colorado Springs, USA",job_type.remote_full_time,job_status.vacant
+18094,43521,Talent Manager,147000,"Irvine, USA",job_type.onsite_full_time,job_status.vacant
+20988,23873,Copywriter,8691800,"Lubbock, USA",job_type.remote_full_time,job_status.vacant
+15424,4713,Speech-Language Pathologist,5773100,"Nairobi, Kenya",job_type.remote_full_time,job_status.vacant
+22897,56949,Web Developer,9468000,"Mesa, USA",job_type.onsite_full_time,job_status.vacant
+82523,56412,Social Media Coordinator,8628300,"Portland, USA",job_type.remote_full_time,job_status.vacant
+41054,91013,Technical Writer,5707100,"Stockton, USA",job_type.remote_part_time,job_status.vacant
+93426,34910,Occupational Health and Safety Specialist,639800,"Irvine, USA",job_type.onsite_full_time,job_status.vacant
+89607,59770,Business Development Manager,6036600,"Henderson, USA",job_type.remote_part_time,job_status.vacant
+29321,16706,Legal Analyst,9660900,"Washington D.C., USA",job_type.onsite_part_time,job_status.vacant
+26023,88190,Network Technician,9354600,"Irving, USA",job_type.onsite_full_time,job_status.vacant
+89229,53725,Research Scientist,4336200,"Albuquerque, USA",job_type.remote_full_time,job_status.vacant
+42398,44013,Systems Administrator,4526500,"Jaipur, India",job_type.onsite_full_time,job_status.vacant
+88348,14622,Content Writer,9634200,"Rome, Italy",job_type.onsite_part_time,job_status.vacant
+66122,76334,Public Accountant,1419200,"Richmond, USA",job_type.remote_full_time,job_status.vacant
+57993,39087,Sales Manager,8726400,"Pittsburgh, USA",job_type.onsite_full_time,job_status.vacant
+92413,74593,Dental Assistant,7750700,"Cairo, Egypt",job_type.onsite_part_time,job_status.vacant
+36551,62823,Business Consultant,9536200,"Mumbai, India",job_type.onsite_part_time,job_status.vacant
+19791,40187,HR Recruiter,6406200,"Riyadh, Saudi Arabia",job_type.remote_part_time,job_status.vacant
+28599,94380,Pharmacist,4502500,"Bucharest, Romania",job_type.onsite_part_time,job_status.vacant
+57958,39792,Data Entry Clerk,988700,"Chiang Mai, Thailand",job_type.remote_full_time,job_status.vacant
+29402,99593,Account Coordinator,4472600,"Albuquerque, USA",job_type.remote_full_time,job_status.vacant
+88198,41181,IT Auditor,9960500,"Garland, USA",job_type.remote_part_time,job_status.vacant
+30232,31001,IT Support Specialist,6059000,"Phoenix, USA",job_type.remote_full_time,job_status.vacant
+82313,93094,Data Entry Specialist,1765100,"Bakersfield, USA",job_type.onsite_full_time,job_status.vacant
+70310,34502,Insurance Agent,7028100,"Pittsburgh, USA",job_type.onsite_part_time,job_status.vacant
+46459,63656,Market Research Analyst,9044700,"Singapore City, Singapore",job_type.remote_part_time,job_status.vacant
+75866,26386,Insurance Claims Adjuster,9018800,"Glendale, USA",job_type.remote_part_time,job_status.vacant
+74614,80656,Technical Support Specialist,252100,"Charlotte, USA",job_type.remote_part_time,job_status.vacant
+85191,15223,Marketing Coordinator,4398100,"North Las Vegas, USA",job_type.remote_full_time,job_status.vacant
+53474,52093,Business Consultant,4147100,"Phoenix, USA",job_type.remote_full_time,job_status.vacant
+79131,13567,Network Administrator,2489300,"Tulsa, USA",job_type.remote_full_time,job_status.vacant
+7470,5808,Electrician,764800,"Dar es Salaam, Tanzania",job_type.onsite_part_time,job_status.vacant
+7731,10776,Public Relations Coordinator,5431200,"Reno, USA",job_type.remote_full_time,job_status.vacant
+51663,76515,Nurse Practitioner,3373300,"Salzburg, Austria",job_type.onsite_part_time,job_status.vacant
+99574,88498,Event Manager,802000,"Singapore City, Singapore",job_type.onsite_full_time,job_status.vacant
+46919,17694,Cybersecurity Engineer,3148900,"Lubbock, USA",job_type.remote_full_time,job_status.vacant
+67176,40315,Environmental Engineer,255400,"London, England",job_type.onsite_part_time,job_status.vacant
+72155,34672,Marketing Communications Manager,3706200,"Fresno, USA",job_type.onsite_full_time,job_status.vacant
+33247,52093,IT Support Specialist,9411400,"Fayetteville, USA",job_type.remote_full_time,job_status.vacant
+17765,213,Event Coordinator,1416800,"Baltimore, USA",job_type.remote_full_time,job_status.vacant
+64528,80507,Environmental Scientist,2112700,"Abuja, Nigeria",job_type.remote_part_time,job_status.vacant
+85954,19218,Systems Administrator,473900,"Sydney, Australia",job_type.remote_full_time,job_status.vacant
+3404,31349,IT Manager,5711200,"Barcelona, Spain",job_type.remote_full_time,job_status.vacant
+66732,26386,Network Technician,3164200,"Copenhagen, Denmark",job_type.onsite_full_time,job_status.vacant
+34770,63492,Administrative Assistant,6243200,"Riverside, USA",job_type.onsite_part_time,job_status.vacant
+51756,71698,Dental Assistant,6025000,"Nairobi, Kenya",job_type.remote_full_time,job_status.vacant
+97130,31445,Graphic Artist,5099900,"Abuja, Nigeria",job_type.remote_part_time,job_status.vacant
+58926,72737,Brand Strategist,691300,"Santiago, Chile",job_type.remote_part_time,job_status.vacant
+38913,46976,IT Project Manager,9905200,"Perth, Australia",job_type.onsite_full_time,job_status.vacant
+89499,1695,Pharmacist,976400,"Salzburg, Austria",job_type.remote_full_time,job_status.vacant
+25070,119,Retail Manager,6940200,"Porto, Portugal",job_type.onsite_part_time,job_status.vacant
+94334,5413,Legal Secretary,7089500,"Winston-Salem, USA",job_type.remote_full_time,job_status.vacant
+60229,93307,HR Recruiter,9841000,"St. Louis, USA",job_type.remote_part_time,job_status.vacant
+81199,70704,Social Media Coordinator,890700,"Boston, USA",job_type.remote_part_time,job_status.vacant
+52977,81213,UX Designer,4989600,"Venice, Italy",job_type.onsite_part_time,job_status.vacant
+96892,42509,Social Worker,4734700,"Venice, Italy",job_type.onsite_full_time,job_status.vacant
+63603,48542,Legal Counsel,2859200,"Lyon, France",job_type.remote_full_time,job_status.vacant
+93040,55853,Public Accountant,1685300,"Greensboro, USA",job_type.onsite_part_time,job_status.vacant
+56124,12977,Technical Support Engineer,1595800,"Florence, Italy",job_type.remote_full_time,job_status.vacant
+55624,3758,Sales Support Specialist,8649600,"New York City, USA",job_type.remote_part_time,job_status.vacant
+1957,40315,Physical Therapist,7946700,"Doha, Qatar",job_type.remote_part_time,job_status.vacant
+92174,98020,Operations Coordinator,950700,"Irvine, USA",job_type.remote_part_time,job_status.vacant
+1532,30099,Interior Decorator,7718800,"Melbourne, Australia",job_type.onsite_full_time,job_status.vacant
+99146,94380,Retail Manager,9911200,"Philadelphia, USA",job_type.remote_full_time,job_status.vacant
+82419,70548,Marketing Assistant,6808900,"Los Angeles, USA",job_type.remote_full_time,job_status.vacant
+26118,31445,Sales Support Specialist,4685400,"Oklahoma City, USA",job_type.onsite_full_time,job_status.vacant
+39223,56412,Sales Manager,9672700,"San Francisco, USA",job_type.remote_full_time,job_status.vacant
+23273,44013,Real Estate Agent,8625100,"Abuja, Nigeria",job_type.remote_part_time,job_status.vacant
+53735,50925,Dental Assistant,718300,"Houston, USA",job_type.remote_part_time,job_status.vacant
+86976,82461,Customer Service Representative,4626000,"Brasília, Brazil",job_type.onsite_full_time,job_status.vacant
+79095,44013,Tax Accountant,8051500,"Nashville, USA",job_type.remote_part_time,job_status.vacant
+29366,80656,Medical Laboratory Technician,6251200,"Hong Kong, China",job_type.remote_full_time,job_status.vacant
+61903,52093,Customer Success Manager,5459200,"Tel Aviv, Israel",job_type.onsite_full_time,job_status.vacant
+12310,98302,Public Relations Specialist,9166900,"Budapest, Hungary",job_type.remote_full_time,job_status.vacant
+61748,71362,Dental Assistant,4762800,"San Bernardino, USA",job_type.onsite_part_time,job_status.vacant
+94403,34338,Product Manager,9026800,"Gilbert, USA",job_type.onsite_part_time,job_status.vacant
+3602,71698,Market Research Assistant,5616800,"Moscow, Russia",job_type.remote_part_time,job_status.vacant
+21206,9850,IT Security Specialist,5813500,"Newark, USA",job_type.onsite_full_time,job_status.vacant
+37793,71362,IT Technician,9479100,"Oakland, USA",job_type.onsite_part_time,job_status.vacant
+78667,81311,Medical Laboratory Technician,4326100,"Sacramento, USA",job_type.remote_part_time,job_status.vacant
+34637,59276,Legal Secretary,4504100,"Cairo, Egypt",job_type.remote_full_time,job_status.vacant
+58818,76515,Technical Support Specialist,8781100,"Reykjavik, Iceland",job_type.remote_full_time,job_status.vacant
+30656,13227,Electrical Engineer,2364400,"Irvine, USA",job_type.onsite_part_time,job_status.vacant
+64763,52528,Interior Designer,5856700,"Kuala Lumpur, Malaysia",job_type.onsite_full_time,job_status.vacant
+50541,42509,Customer Experience Manager,7142900,"Auckland, New Zealand",job_type.onsite_part_time,job_status.vacant
+80255,31445,Quality Control Inspector,2277300,"Doha, Qatar",job_type.onsite_full_time,job_status.vacant
+54772,34338,Recruitment Specialist,8632700,"San Jose, USA",job_type.onsite_part_time,job_status.vacant
+839,12977,Dental Hygienist,2443200,"Bangkok, Thailand",job_type.onsite_full_time,job_status.vacant
+23994,79801,Environmental Engineer,4246200,"Abu Dhabi, UAE",job_type.onsite_full_time,job_status.vacant
+66006,48079,Mechanical Engineer,3401200,"Singapore City, Singapore",job_type.remote_part_time,job_status.vacant
+20294,49186,Cybersecurity Analyst,578000,"Paris, France",job_type.remote_full_time,job_status.vacant
+66876,92887,Medical Records Clerk,3045200,"Rio de Janeiro, Brazil",job_type.onsite_full_time,job_status.vacant
+89004,41932,Business Development Executive,9326700,"Los Angeles, USA",job_type.remote_part_time,job_status.vacant
+14018,27486,SEO Specialist,745700,"Shanghai, China",job_type.remote_part_time,job_status.vacant
+77384,71362,Financial Auditor,3214800,"Fort Wayne, USA",job_type.remote_part_time,job_status.vacant
+41439,43521,Marketing Assistant,5312500,"Irvine, USA",job_type.remote_part_time,job_status.vacant
+30183,56412,Recruiting Coordinator,7932100,"Munich, Germany",job_type.remote_part_time,job_status.vacant
+19796,70864,Brand Strategist,1046600,"Milwaukee, USA",job_type.remote_part_time,job_status.vacant
+87006,72737,IT Security Analyst,5432400,"Cleveland, USA",job_type.remote_part_time,job_status.vacant
+9772,50379,Investment Analyst,6156400,"Anchorage, USA",job_type.onsite_part_time,job_status.vacant
+91687,48431,Brand Manager,923100,"Mumbai, India",job_type.remote_part_time,job_status.vacant
+38695,52528,Healthcare Administrator,3743400,"Chiang Mai, Thailand",job_type.onsite_full_time,job_status.vacant
+56861,16706,Brand Strategist,1422000,"Lexington, USA",job_type.onsite_part_time,job_status.vacant
+30599,34672,Mechanical Engineer,7330800,"Honolulu, USA",job_type.onsite_full_time,job_status.vacant
+45142,70704,Project Coordinator,4654400,"Beirut, Lebanon",job_type.onsite_full_time,job_status.vacant
+66404,71222,Product Owner,2804900,"Krakow, Poland",job_type.onsite_full_time,job_status.vacant
+80384,37359,Operations Supervisor,6086900,"Glendale, USA",job_type.remote_part_time,job_status.vacant
+53567,82382,Mechanical Engineer,7011700,"Tulsa, USA",job_type.onsite_part_time,job_status.vacant
+31707,66608,Marketing Manager,5557800,"Toledo, USA",job_type.onsite_full_time,job_status.vacant
+2329,50605,Technical Support Specialist,2442300,"Reykjavik, Iceland",job_type.remote_full_time,job_status.vacant
+91507,27355,Network Administrator,9328600,"Sydney, Australia",job_type.remote_full_time,job_status.vacant
+5451,81311,Purchasing Manager,6487100,"Manchester, England",job_type.onsite_full_time,job_status.vacant
+81324,15223,Customer Service Representative,3148800,"Tel Aviv, Israel",job_type.remote_full_time,job_status.vacant
+8958,41181,Marketing Director,2608500,"Winston-Salem, USA",job_type.remote_part_time,job_status.vacant
+68553,98753,Physical Therapist,9781000,"Tulsa, USA",job_type.remote_part_time,job_status.vacant
+94686,69715,HR Specialist,8899800,"Cairo, Egypt",job_type.onsite_full_time,job_status.vacant
+80742,48431,IT Project Manager,6643800,"Virginia Beach, USA",job_type.onsite_part_time,job_status.vacant
+93871,10584,Market Research Assistant,6175600,"Melbourne, Australia",job_type.onsite_full_time,job_status.vacant
+46989,5834,Technical Support Engineer,9326900,"Paris, France",job_type.remote_full_time,job_status.vacant
+88054,9850,Digital Marketing Manager,4495900,"Bogotá, Colombia",job_type.onsite_part_time,job_status.vacant
+83040,97028,Nurse Practitioner,6434200,"Denver, USA",job_type.onsite_full_time,job_status.vacant
+5806,12548,Dental Hygienist,6720900,"Oslo, Norway",job_type.onsite_full_time,job_status.vacant
+19912,46976,Market Research Manager,395900,"Miami, USA",job_type.onsite_full_time,job_status.vacant
+8310,34672,HR Director,1111200,"Moscow, Russia",job_type.remote_full_time,job_status.vacant
+34876,5216,Financial Auditor,5677000,"Lubbock, USA",job_type.onsite_part_time,job_status.vacant
+44736,93585,Data Entry Clerk,8055800,"Lubbock, USA",job_type.onsite_part_time,job_status.vacant
+58925,119,Systems Engineer,3098500,"Houston, USA",job_type.remote_full_time,job_status.vacant
+31987,80294,Research Scientist,8166300,"Madison, USA",job_type.remote_part_time,job_status.vacant
+51431,1539,Logistics Manager,2879500,"Fontana, USA",job_type.remote_full_time,job_status.vacant
+15881,31445,UI/UX Developer,5921100,"North Las Vegas, USA",job_type.onsite_full_time,job_status.vacant
+56540,5413,Technical Support Engineer,7113400,"Chula Vista, USA",job_type.onsite_full_time,job_status.vacant
+72817,70400,Occupational Therapist,8852200,"Budapest, Hungary",job_type.remote_full_time,job_status.vacant
+37585,8321,Lawyer,4270500,"Phoenix, USA",job_type.onsite_part_time,job_status.vacant
+68277,17694,Healthcare Administrator,2829500,"Baton Rouge, USA",job_type.onsite_full_time,job_status.vacant
+4738,9750,Financial Analyst,4701000,"Garland, USA",job_type.remote_part_time,job_status.vacant
+84987,58983,HR Specialist,9235000,"Auckland, New Zealand",job_type.remote_full_time,job_status.vacant
+41236,34187,Financial Auditor,5701700,"San Jose, USA",job_type.remote_part_time,job_status.vacant
+64899,72737,IT Manager,9228400,"Fort Wayne, USA",job_type.onsite_full_time,job_status.vacant
+11086,5692,Operations Coordinator,4880600,"Memphis, USA",job_type.remote_part_time,job_status.vacant
+50695,70548,Quality Assurance Engineer,8411400,"Lexington, USA",job_type.onsite_part_time,job_status.vacant
+61010,78538,Event Coordinator,9475300,"Helsinki, Finland",job_type.onsite_full_time,job_status.vacant
+75281,81311,Physical Therapist,7098200,"Corpus Christi, USA",job_type.onsite_part_time,job_status.vacant
+21558,3758,IT Security Analyst,4994800,"Birmingham, USA",job_type.remote_full_time,job_status.vacant
+51642,98856,Occupational Health and Safety Specialist,3197100,"Raleigh, USA",job_type.onsite_part_time,job_status.vacant
+72763,56412,Investment Advisor,6644300,"Virginia Beach, USA",job_type.remote_part_time,job_status.vacant
+25281,94380,Market Analyst,2897500,"Cape Town, South Africa",job_type.onsite_full_time,job_status.vacant
+82567,39087,Business Development Coordinator,8866100,"Berlin, Germany",job_type.onsite_part_time,job_status.vacant
+42733,26386,Sales Support Specialist,7980000,"Brasília, Brazil",job_type.onsite_part_time,job_status.vacant
+65184,17694,Business Development Manager,8861700,"Rio de Janeiro, Brazil",job_type.onsite_full_time,job_status.vacant
+73062,3890,IT Specialist,8088200,"New Orleans, USA",job_type.onsite_full_time,job_status.vacant
+4627,5834,User Interface Designer,9946000,"Seattle, USA",job_type.onsite_part_time,job_status.vacant
+96867,69715,Physical Therapy Assistant,8323400,"Boise, USA",job_type.onsite_full_time,job_status.vacant
+46445,48431,Insurance Agent,1991600,"Durham, USA",job_type.onsite_part_time,job_status.vacant
+76335,88136,Technical Support Engineer,4635400,"Kansas City, USA",job_type.remote_full_time,job_status.vacant
+42785,79801,Supply Chain Specialist,8696100,"Seoul, South Korea",job_type.onsite_part_time,job_status.vacant
+55211,93585,IT Project Manager,8020400,"Bakersfield, USA",job_type.remote_part_time,job_status.vacant
+85756,5692,Teacher,4801600,"Chengdu, China",job_type.remote_part_time,job_status.vacant
+66054,71737,Research Scientist,8279300,"Madrid, Spain",job_type.remote_part_time,job_status.vacant
+30927,43521,Public Relations Coordinator,250200,"Hong Kong, China",job_type.remote_part_time,job_status.vacant
+9972,47708,Network Engineer,3207400,"Cairo, Egypt",job_type.onsite_full_time,job_status.vacant
+38984,97925,Physical Therapist,4033900,"Baton Rouge, USA",job_type.onsite_part_time,job_status.vacant
+44610,13227,Physical Therapy Assistant,8997800,"Pittsburgh, USA",job_type.onsite_full_time,job_status.vacant
+90140,94106,Interior Decorator,5149900,"Honolulu, USA",job_type.onsite_full_time,job_status.vacant
+85676,9259,Customer Success Manager,1906600,"Anaheim, USA",job_type.remote_part_time,job_status.vacant
+55252,71515,Legal Assistant,2959700,"Munich, Germany",job_type.remote_part_time,job_status.vacant
+51170,48407,Network Technician,7377400,"Nashville, USA",job_type.onsite_full_time,job_status.vacant
+22491,41932,Operations Supervisor,3969000,"Salzburg, Austria",job_type.remote_part_time,job_status.vacant
+32589,27355,Legal Assistant,8545300,"Austin, USA",job_type.onsite_full_time,job_status.vacant
+31450,80666,Legal Analyst,516600,"Vienna, Austria",job_type.onsite_full_time,job_status.vacant
+82334,35142,Quality Assurance Engineer,5083000,"Bucharest, Romania",job_type.onsite_part_time,job_status.vacant
+95600,42897,Recruiting Coordinator,5862900,"Abuja, Nigeria",job_type.onsite_part_time,job_status.vacant
+8906,91013,Legal Secretary,1679400,"Rome, Italy",job_type.remote_full_time,job_status.vacant
+92884,3890,Legal Secretary,7453300,"Nairobi, Kenya",job_type.remote_full_time,job_status.vacant
+79991,56412,Graphic Artist,9278100,"Lisbon, Portugal",job_type.onsite_full_time,job_status.vacant
+9948,17808,Financial Risk Analyst,2603500,"Las Vegas, USA",job_type.remote_full_time,job_status.vacant
+87068,48079,Technical Support Specialist,7493500,"Seoul, South Korea",job_type.onsite_full_time,job_status.vacant
+60176,48542,HR Manager,5858300,"Durham, USA",job_type.onsite_part_time,job_status.vacant
+76451,15205,Medical Office Manager,5292600,"Buenos Aires, Argentina",job_type.onsite_full_time,job_status.vacant
+70718,66589,Event Manager,2008600,"Seattle, USA",job_type.remote_part_time,job_status.vacant
+69070,5061,Business Development Manager,7547100,"London, England",job_type.remote_part_time,job_status.vacant
+52150,70548,Marketing Analyst,8458900,"Stockton, USA",job_type.onsite_full_time,job_status.vacant
+54189,93585,Executive Assistant,3839100,"Nairobi, Kenya",job_type.remote_part_time,job_status.vacant
+68531,213,Financial Planner,3529200,"Copenhagen, Denmark",job_type.remote_full_time,job_status.vacant
+24056,18869,Marketing Assistant,4951800,"Seoul, South Korea",job_type.remote_full_time,job_status.vacant
+71083,10584,Data Scientist,8199400,"Copenhagen, Denmark",job_type.onsite_part_time,job_status.vacant
+6883,37359,User Experience Researcher,564700,"Guangzhou, China",job_type.remote_part_time,job_status.vacant
+23705,99593,Customer Support Specialist,8766400,"Minneapolis, USA",job_type.onsite_full_time,job_status.vacant
+85379,22617,Business Systems Analyst,3348900,"Washington D.C., USA",job_type.remote_full_time,job_status.vacant
+48106,14363,Teacher,6554700,"Glendale, USA",job_type.remote_part_time,job_status.vacant
+73570,46441,Software Engineer,6291000,"Stockton, USA",job_type.onsite_part_time,job_status.vacant
+44967,55853,Sales Manager,135600,"Milwaukee, USA",job_type.onsite_part_time,job_status.vacant
+57112,41804,Lawyer,5481600,"Tel Aviv, Israel",job_type.remote_full_time,job_status.vacant
+68817,34672,Public Relations Manager,1702400,"Virginia Beach, USA",job_type.onsite_part_time,job_status.vacant
+47437,76875,Social Media Manager,1459600,"Oakland, USA",job_type.remote_part_time,job_status.vacant
+61409,70400,Registered Nurse,7001300,"Anchorage, USA",job_type.remote_part_time,job_status.vacant
+23108,81311,Occupational Therapist,9281200,"Vienna, Austria",job_type.remote_full_time,job_status.vacant
+47904,80656,HR Recruiter,6479900,"Spokane, USA",job_type.remote_part_time,job_status.vacant
+34164,31445,User Interface Designer,840800,"Chesapeake, USA",job_type.onsite_full_time,job_status.vacant
+30163,14363,User Experience Researcher,6826100,"Modesto, USA",job_type.remote_part_time,job_status.vacant
+13906,5834,Architect,8017000,"Shanghai, China",job_type.remote_full_time,job_status.vacant
+94359,83911,Physician Assistant,5002000,"Philadelphia, USA",job_type.onsite_part_time,job_status.vacant
+95050,19218,Social Media Coordinator,7222600,"Wichita, USA",job_type.remote_full_time,job_status.vacant
+36579,80666,Software Tester,1274400,"Warsaw, Poland",job_type.remote_full_time,job_status.vacant
+37488,17694,Account Manager,6539400,"Nairobi, Kenya",job_type.remote_part_time,job_status.vacant
+54338,17694,Investment Analyst,9674500,"Vancouver, Canada",job_type.remote_full_time,job_status.vacant
+22138,58983,Healthcare Administrator,3375900,"Melbourne, Australia",job_type.remote_part_time,job_status.vacant
+82888,70400,Financial Clerk,7146000,"Scottsdale, USA",job_type.remote_part_time,job_status.vacant
+48775,34910,Occupational Therapist,3247300,"Yonkers, USA",job_type.onsite_full_time,job_status.vacant
+80386,43521,Legal Secretary,4992400,"Rio de Janeiro, Brazil",job_type.onsite_part_time,job_status.vacant
+70706,16706,Marketing Manager,1855800,"Tulsa, USA",job_type.remote_part_time,job_status.vacant
+73796,70704,Project Manager,9818900,"Madrid, Spain",job_type.remote_full_time,job_status.vacant
+52364,13227,Software Developer,5549100,"Marrakech, Morocco",job_type.onsite_part_time,job_status.vacant
+10060,42943,Public Relations Coordinator,5698500,"Gilbert, USA",job_type.onsite_full_time,job_status.vacant
+62543,18869,Business Development Manager,524400,"Porto, Portugal",job_type.remote_full_time,job_status.vacant
+87582,14363,Marketing Director,7148300,"Cleveland, USA",job_type.remote_full_time,job_status.vacant
+1158,55853,Digital Marketing Specialist,4359900,"Detroit, USA",job_type.onsite_full_time,job_status.vacant
+6474,2449,Insurance Broker,306800,"Budapest, Hungary",job_type.remote_full_time,job_status.vacant
+11226,52528,HR Generalist,327500,"Washington D.C., USA",job_type.remote_full_time,job_status.vacant
+58060,23873,Account Coordinator,4170500,"Fontana, USA",job_type.remote_full_time,job_status.vacant
+84249,71222,Architect,3461000,"San Bernardino, USA",job_type.remote_full_time,job_status.vacant
+89194,48542,Architect,7889300,"Dubai, UAE",job_type.onsite_part_time,job_status.vacant
+86421,13227,Civil Engineer,455300,"Brasília, Brazil",job_type.remote_part_time,job_status.vacant
+68662,94106,Network Analyst,8264400,"Raleigh, USA",job_type.onsite_full_time,job_status.vacant
+71816,81213,Research Coordinator,5293100,"Minneapolis, USA",job_type.remote_full_time,job_status.vacant
+83069,98856,Product Marketing Manager,6349700,"Birmingham, USA",job_type.remote_full_time,job_status.vacant
+71238,50379,Research Scientist,992700,"San Francisco, USA",job_type.onsite_part_time,job_status.vacant
+92353,18869,Recruiting Coordinator,4213400,"Plano, USA",job_type.onsite_full_time,job_status.vacant
+17356,49858,Legal Secretary,3613400,"Bucharest, Romania",job_type.remote_full_time,job_status.vacant
+26125,53725,Teacher,5667800,"Arlington, USA",job_type.onsite_part_time,job_status.vacant
+9615,12548,Business Development Coordinator,9160400,"Stockton, USA",job_type.onsite_full_time,job_status.vacant
+63518,41181,Systems Administrator,5980500,"Laredo, USA",job_type.onsite_part_time,job_status.vacant
+53862,19052,Marketing Assistant,1070600,"Oklahoma City, USA",job_type.remote_full_time,job_status.vacant
+22458,5692,Executive Assistant,4686100,"Lima, Peru",job_type.remote_full_time,job_status.vacant
+45870,119,IT Specialist,4401000,"Garland, USA",job_type.onsite_full_time,job_status.vacant
+69032,37359,Public Accountant,5836200,"Vienna, Austria",job_type.remote_full_time,job_status.vacant
+83581,96774,Data Entry Specialist,3754200,"Lincoln, USA",job_type.onsite_full_time,job_status.vacant
+64476,56550,Operations Analyst,7349300,"Tel Aviv, Israel",job_type.remote_full_time,job_status.vacant
+35948,2449,Digital Marketing Manager,6236400,"Fresno, USA",job_type.remote_part_time,job_status.vacant
+59076,50605,Customer Experience Manager,183300,"Dublin, Ireland",job_type.onsite_full_time,job_status.vacant
+73949,48542,Quality Control Inspector,862800,"San Francisco, USA",job_type.onsite_part_time,job_status.vacant
+18784,6045,Product Marketing Manager,7580900,"Buenos Aires, Argentina",job_type.remote_full_time,job_status.vacant
+95413,19218,Marketing Communications Manager,4124800,"Toronto, Canada",job_type.remote_full_time,job_status.vacant
+48649,46441,UI/UX Developer,7813700,"Charlotte, USA",job_type.remote_full_time,job_status.vacant
+68741,13227,User Experience Researcher,8619100,"Lima, Peru",job_type.remote_part_time,job_status.vacant
+78316,34338,Human Resources Manager,5154500,"Denver, USA",job_type.onsite_part_time,job_status.vacant
+66701,18869,UI/UX Developer,3414700,"Tokyo, Japan",job_type.onsite_full_time,job_status.vacant
+30168,97295,Software Tester,4115500,"Chengdu, China",job_type.onsite_full_time,job_status.vacant
+44399,34910,Copywriter,2655500,"Kyoto, Japan",job_type.onsite_part_time,job_status.vacant
+72338,91301,Occupational Therapist Assistant,7931700,"Lubbock, USA",job_type.remote_part_time,job_status.vacant
+66494,48079,Production Supervisor,3035900,"Lincoln, USA",job_type.onsite_part_time,job_status.vacant
+69041,9850,Product Owner,6869500,"Gilbert, USA",job_type.onsite_part_time,job_status.vacant
+47421,44556,Nurse Manager,2409800,"Vancouver, Canada",job_type.remote_part_time,job_status.vacant
+17821,72160,Database Administrator,5435900,"Nice, France",job_type.remote_part_time,job_status.vacant
+6926,49858,Systems Engineer,4577400,"Memphis, USA",job_type.remote_full_time,job_status.vacant
+80037,10776,Legal Secretary,5508000,"Sacramento, USA",job_type.remote_part_time,job_status.vacant
+42645,276,Business Consultant,1371400,"Miami, USA",job_type.onsite_full_time,job_status.vacant
+70079,80656,Digital Marketing Manager,6775900,"Miami, USA",job_type.onsite_full_time,job_status.vacant
+11547,80294,Network Security Engineer,6558300,"Kansas City, USA",job_type.onsite_part_time,job_status.vacant
+37000,96774,Lawyer,5378100,"Madrid, Spain",job_type.remote_part_time,job_status.vacant
+99593,47327,Digital Marketing Coordinator,7095900,"Reno, USA",job_type.onsite_full_time,job_status.vacant
+70152,5834,HR Director,4663600,"Moscow, Russia",job_type.onsite_part_time,job_status.vacant
+63244,82267,Legal Analyst,5125600,"Corpus Christi, USA",job_type.onsite_part_time,job_status.vacant
+43780,98856,Technical Support Specialist,2152300,"New Orleans, USA",job_type.onsite_full_time,job_status.vacant
+6091,91013,Teacher,5642400,"Krakow, Poland",job_type.remote_part_time,job_status.vacant
+18620,41804,Legal Assistant,5560700,"Helsinki, Finland",job_type.remote_full_time,job_status.vacant
+26082,8539,HR Director,5440300,"Oakland, USA",job_type.onsite_full_time,job_status.vacant
+21921,70386,Pharmacist,3067700,"Orlando, USA",job_type.remote_part_time,job_status.vacant
+12663,5413,Talent Manager,4426100,"Tulsa, USA",job_type.onsite_part_time,job_status.vacant
+56779,66608,IT Consultant,2695800,"Fremont, USA",job_type.remote_part_time,job_status.vacant
+29487,86446,Occupational Therapist,4653200,"Colorado Springs, USA",job_type.onsite_part_time,job_status.vacant
+55795,76875,Compliance Officer,1379900,"Tacoma, USA",job_type.onsite_part_time,job_status.vacant
+56180,92887,Mechanical Engineer,8876700,"Scottsdale, USA",job_type.remote_full_time,job_status.vacant
+74209,14363,Lawyer,1897600,"Irvine, USA",job_type.onsite_part_time,job_status.vacant
+13775,14547,Data Analyst,7827500,"Houston, USA",job_type.remote_full_time,job_status.vacant
+40483,55853,HR Director,7940000,"Yonkers, USA",job_type.remote_part_time,job_status.vacant
+2263,70400,Lawyer,3260400,"Durham, USA",job_type.remote_part_time,job_status.vacant
+29838,71737,Research Assistant,262000,"Tel Aviv, Israel",job_type.remote_full_time,job_status.vacant
+90697,46441,Supply Chain Analyst,7264800,"Garland, USA",job_type.onsite_part_time,job_status.vacant
+51679,83904,Administrative Assistant,3292900,"Chiang Mai, Thailand",job_type.remote_part_time,job_status.vacant
+60544,70704,Supply Chain Manager,9860900,"Garland, USA",job_type.onsite_part_time,job_status.vacant
+65291,27486,IT Administrator,5485700,"Porto, Portugal",job_type.onsite_part_time,job_status.vacant
+24430,5413,Retail Manager,3512900,"Dubai, UAE",job_type.onsite_part_time,job_status.vacant
+1548,12977,Sales Manager,996700,"Savannah, USA",job_type.remote_full_time,job_status.vacant
+10026,79856,Dental Assistant,5495600,"Auckland, New Zealand",job_type.remote_full_time,job_status.vacant
+79962,89079,Tax Accountant,3810600,"Nairobi, Kenya",job_type.onsite_part_time,job_status.vacant
+96194,5692,Financial Analyst,7517300,"Cape Town, South Africa",job_type.onsite_part_time,job_status.vacant
+98049,80294,IT Auditor,5489400,"Vancouver, Canada",job_type.remote_full_time,job_status.vacant
+56633,52528,Mechanical Technician,1628300,"Abu Dhabi, UAE",job_type.remote_full_time,job_status.vacant
+35549,66589,HR Assistant,5143500,"Mumbai, India",job_type.onsite_part_time,job_status.vacant
+16971,9259,SEO Specialist,9120900,"Stockton, USA",job_type.onsite_full_time,job_status.vacant
+78399,70427,Marketing Manager,6353000,"Florence, Italy",job_type.onsite_full_time,job_status.vacant
+42837,94529,Research Scientist,3190000,"Modesto, USA",job_type.onsite_full_time,job_status.vacant
+37988,70704,Financial Analyst,2647900,"Buenos Aires, Argentina",job_type.onsite_part_time,job_status.vacant
+82626,93094,Quality Assurance Engineer,4486800,"Reno, USA",job_type.remote_full_time,job_status.vacant
+21255,50900,Recruiting Coordinator,7370900,"Santiago, Chile",job_type.onsite_part_time,job_status.vacant
+26561,10776,Content Writer,677700,"Jersey City, USA",job_type.onsite_full_time,job_status.vacant
+71607,27355,Technical Support Engineer,4311900,"Richmond, USA",job_type.onsite_part_time,job_status.vacant
+68911,5061,HR Coordinator,6632600,"Rio de Janeiro, Brazil",job_type.onsite_full_time,job_status.vacant
+18455,43932,IT Auditor,1651500,"Auckland, New Zealand",job_type.remote_part_time,job_status.vacant
+1895,70548,Environmental Engineer,6485400,"Arlington, USA",job_type.remote_part_time,job_status.vacant
+66974,34672,Graphic Artist,9719700,"Jacksonville, USA",job_type.remote_part_time,job_status.vacant
+33350,5808,Event Coordinator,2244800,"Guangzhou, China",job_type.remote_part_time,job_status.vacant
+98861,39087,Architect,5284800,"Adelaide, Australia",job_type.remote_part_time,job_status.vacant
+61834,91301,Biomedical Engineer,3905800,"Brussels, Belgium",job_type.remote_full_time,job_status.vacant
+18814,76334,Sales Support Specialist,8482500,"Buenos Aires, Argentina",job_type.onsite_full_time,job_status.vacant
+89478,37359,Physical Therapist,4193500,"Omaha, USA",job_type.remote_part_time,job_status.vacant
+86204,49858,Business Systems Analyst,3757000,"Brussels, Belgium",job_type.onsite_part_time,job_status.vacant
+93125,91301,Content Manager,6160600,"Oakland, USA",job_type.remote_part_time,job_status.vacant
+81979,52530,Public Relations Manager,8194500,"Stockholm, Sweden",job_type.remote_full_time,job_status.vacant
+92164,35142,Business Consultant,8288100,"Glendale, USA",job_type.onsite_part_time,job_status.vacant
+65017,63656,Financial Risk Analyst,9999600,"Guangzhou, China",job_type.remote_full_time,job_status.vacant
+61679,45130,Graphic Designer,317500,"Modesto, USA",job_type.remote_full_time,job_status.vacant
+73041,71515,Quality Control Inspector,5007000,"Florence, Italy",job_type.onsite_full_time,job_status.vacant
+4580,93585,Sales Manager,581600,"Atlanta, USA",job_type.onsite_part_time,job_status.vacant
+68894,30099,Marketing Analyst,1025700,"Adelaide, Australia",job_type.remote_full_time,job_status.vacant
+89407,19248,Network Analyst,5588900,"Salzburg, Austria",job_type.onsite_part_time,job_status.vacant
+77067,5692,Inventory Manager,5536900,"Doha, Qatar",job_type.remote_part_time,job_status.vacant
+81235,20995,IT Technician,5613600,"Miami, USA",job_type.remote_part_time,job_status.vacant
+28685,80507,IT Security Analyst,8978800,"Cologne, Germany",job_type.onsite_part_time,job_status.vacant
+47131,72737,Electrician,7296400,"Salzburg, Austria",job_type.remote_part_time,job_status.vacant
+2663,37359,UX Designer,9827100,"New York City, USA",job_type.onsite_full_time,job_status.vacant
+1529,81829,User Interface Designer,6714500,"Brasília, Brazil",job_type.onsite_part_time,job_status.vacant
+33226,43521,Marketing Analyst,1038900,"Chengdu, China",job_type.remote_full_time,job_status.vacant
+55589,63656,Network Administrator,7245400,"St. Paul, USA",job_type.remote_full_time,job_status.vacant
+71030,31445,Digital Content Creator,7028200,"Auckland, New Zealand",job_type.onsite_full_time,job_status.vacant
+19624,10610,IT Security Specialist,477800,"Colorado Springs, USA",job_type.onsite_part_time,job_status.vacant
+85790,97295,Interior Designer,4573500,"Aurora, USA",job_type.onsite_full_time,job_status.vacant
+44004,35155,Executive Assistant,5282700,"Newark, USA",job_type.onsite_part_time,job_status.vacant
+6865,76334,Research Scientist,6554900,"Auckland, New Zealand",job_type.remote_full_time,job_status.vacant
+93204,46976,Software Developer,9931400,"Jersey City, USA",job_type.onsite_part_time,job_status.vacant
+76330,276,Customer Experience Manager,9786200,"Raleigh, USA",job_type.onsite_full_time,job_status.vacant
+72743,31001,Biomedical Engineer,335800,"Madrid, Spain",job_type.remote_part_time,job_status.vacant
+59461,18869,Financial Analyst,5331500,"Washington D.C., USA",job_type.onsite_full_time,job_status.vacant
+20478,14622,Medical Records Clerk,2522400,"Nairobi, Kenya",job_type.onsite_full_time,job_status.vacant
+37986,70548,Web Developer,4658900,"Paris, France",job_type.remote_full_time,job_status.vacant
+48885,30000,Customer Success Manager,5032100,"Des Moines, USA",job_type.onsite_part_time,job_status.vacant
+95030,49858,Recruitment Specialist,5209500,"Riverside, USA",job_type.remote_part_time,job_status.vacant
+83591,12977,Electrician,1751400,"Seoul, South Korea",job_type.onsite_full_time,job_status.vacant
+9351,19248,Logistics Manager,2817400,"Phoenix, USA",job_type.onsite_full_time,job_status.vacant
+89667,12977,Legal Secretary,3909700,"Mesa, USA",job_type.remote_full_time,job_status.vacant
+31187,81213,Digital Marketing Specialist,5050200,"Glendale, USA",job_type.remote_part_time,job_status.vacant
+58750,82382,IT Manager,4021300,"Nairobi, Kenya",job_type.onsite_full_time,job_status.vacant
+3048,81213,Cybersecurity Analyst,1242200,"Copenhagen, Denmark",job_type.remote_part_time,job_status.vacant
+25215,17808,Cybersecurity Engineer,5714300,"San Bernardino, USA",job_type.onsite_full_time,job_status.vacant
+49000,40315,Public Relations Coordinator,6173400,"Saint Petersburg, Russia",job_type.onsite_part_time,job_status.vacant
+66499,79801,User Experience Researcher,8319700,"Sydney, Australia",job_type.remote_full_time,job_status.vacant
+1495,74593,Mechanical Technician,1143400,"Berlin, Germany",job_type.remote_part_time,job_status.vacant
+8732,276,Cybersecurity Engineer,7710100,"Tokyo, Japan",job_type.remote_part_time,job_status.vacant
+66739,93585,IT Analyst,6728900,"Bakersfield, USA",job_type.remote_part_time,job_status.vacant
+26997,14547,Marketing Manager,8183400,"Scottsdale, USA",job_type.onsite_part_time,job_status.vacant
+97794,53725,Biomedical Engineer,6108000,"Bucharest, Romania",job_type.onsite_full_time,job_status.vacant
+88483,51230,Systems Analyst,2623900,"Buffalo, USA",job_type.remote_full_time,job_status.vacant
+86921,13567,Sales Representative,1456100,"Saint Petersburg, Russia",job_type.remote_part_time,job_status.vacant
+44573,82267,Medical Laboratory Technician,4606400,"Milwaukee, USA",job_type.remote_full_time,job_status.vacant
+71188,91276,SEO Specialist,8612100,"Washington D.C., USA",job_type.onsite_full_time,job_status.vacant
+83155,98856,Operations Coordinator,896000,"Nairobi, Kenya",job_type.remote_part_time,job_status.vacant
+20136,40315,Operations Analyst,6468200,"Reno, USA",job_type.remote_part_time,job_status.vacant
+41996,81311,HR Manager,715300,"Chiang Mai, Thailand",job_type.remote_part_time,job_status.vacant
+71440,98956,IT Security Analyst,3661100,"Toledo, USA",job_type.onsite_full_time,job_status.vacant
+42590,10584,Product Owner,768500,"Wichita, USA",job_type.onsite_part_time,job_status.vacant
+90184,47993,Operations Analyst,3355700,"Nashville, USA",job_type.onsite_full_time,job_status.vacant
+42318,98956,IT Manager,4653800,"Pittsburgh, USA",job_type.onsite_full_time,job_status.vacant
+41286,1498,Occupational Health and Safety Specialist,5538200,"St. Paul, USA",job_type.onsite_full_time,job_status.vacant
+12209,48542,Account Coordinator,8924200,"Seoul, South Korea",job_type.onsite_part_time,job_status.vacant
+10776,56867,Insurance Agent,8862200,"Dallas, USA",job_type.remote_full_time,job_status.vacant
+6201,5808,Legal Secretary,9183100,"San Bernardino, USA",job_type.onsite_full_time,job_status.vacant
+70816,41181,Technical Support Specialist,2695300,"Anaheim, USA",job_type.remote_full_time,job_status.vacant
+10337,80656,Business Consultant,1504400,"Las Vegas, USA",job_type.remote_part_time,job_status.vacant
+75988,17808,Business Development Executive,1036900,"Charleston, USA",job_type.remote_part_time,job_status.vacant
+21204,98020,Digital Marketing Coordinator,3695400,"Glendale, USA",job_type.onsite_full_time,job_status.vacant
+46389,50900,IT Consultant,9906100,"Irvine, USA",job_type.remote_full_time,job_status.vacant
+35211,46650,Financial Auditor,7729100,"Toronto, Canada",job_type.onsite_part_time,job_status.vacant
+39652,5061,Recruitment Specialist,2913500,"Oslo, Norway",job_type.remote_part_time,job_status.vacant
+92105,88498,Market Analyst,8534800,"San Francisco, USA",job_type.onsite_part_time,job_status.vacant
+99144,96774,Financial Analyst,9306800,"Anchorage, USA",job_type.remote_full_time,job_status.vacant
+24117,48431,Legal Assistant,1719100,"Des Moines, USA",job_type.onsite_part_time,job_status.vacant
+51267,82382,IT Manager,2352700,"Chesapeake, USA",job_type.onsite_full_time,job_status.vacant
+61863,70634,Tax Preparer,4517800,"Rome, Italy",job_type.remote_full_time,job_status.vacant
+2805,30679,IT Manager,3908700,"Tucson, USA",job_type.remote_part_time,job_status.vacant
+93674,43932,Dental Hygienist,4295200,"Yonkers, USA",job_type.remote_full_time,job_status.vacant
+44489,276,IT Administrator,4913100,"Sacramento, USA",job_type.remote_part_time,job_status.vacant
+90650,34672,Supply Chain Specialist,5922400,"Moscow, Russia",job_type.remote_part_time,job_status.vacant
+29550,86446,Occupational Therapist Assistant,6806800,"Cape Town, South Africa",job_type.remote_full_time,job_status.vacant
+64211,1498,Marketing Specialist,1674400,"Istanbul, Turkey",job_type.onsite_full_time,job_status.vacant
+23391,63656,Software Engineer,5437000,"Los Angeles, USA",job_type.onsite_part_time,job_status.vacant
+88841,30099,Market Research Manager,3961700,"Fremont, USA",job_type.remote_part_time,job_status.vacant
+19363,28057,HR Specialist,1679400,"Singapore City, Singapore",job_type.onsite_full_time,job_status.vacant
+9398,76875,User Interface Designer,8511900,"Lincoln, USA",job_type.remote_full_time,job_status.vacant
+69073,13227,Insurance Broker,1264800,"Los Angeles, USA",job_type.remote_part_time,job_status.vacant
+1038,3758,Network Analyst,9068200,"Lubbock, USA",job_type.remote_part_time,job_status.vacant
+94480,80507,Product Owner,2002600,"San Bernardino, USA",job_type.onsite_full_time,job_status.vacant
+22159,22899,Supply Chain Specialist,4092300,"Shanghai, China",job_type.onsite_part_time,job_status.vacant
+12447,8786,Research Assistant,5377300,"Lisbon, Portugal",job_type.onsite_part_time,job_status.vacant
+85554,56867,Sales Manager,7493300,"Las Vegas, USA",job_type.onsite_full_time,job_status.vacant
+34221,81829,HR Generalist,8462200,"St. Paul, USA",job_type.onsite_full_time,job_status.vacant
+86536,39197,Digital Content Creator,8089100,"Riyadh, Saudi Arabia",job_type.remote_full_time,job_status.vacant
+76250,98956,Logistics Manager,3460400,"Bangkok, Thailand",job_type.onsite_part_time,job_status.vacant
+84166,19248,Research Coordinator,528300,"Charlotte, USA",job_type.remote_part_time,job_status.vacant
+60509,31349,Insurance Claims Adjuster,7616700,"Oslo, Norway",job_type.onsite_full_time,job_status.vacant
+53344,31445,Operations Manager,5118800,"North Las Vegas, USA",job_type.onsite_part_time,job_status.vacant
+68681,52093,Quality Control Inspector,5402600,"Pittsburgh, USA",job_type.onsite_part_time,job_status.vacant
+71225,94380,Cybersecurity Engineer,9323100,"Portland, USA",job_type.remote_part_time,job_status.vacant
+98543,70548,Systems Administrator,3533700,"Des Moines, USA",job_type.remote_part_time,job_status.vacant
+56680,3890,Multimedia Artist,7293600,"Minneapolis, USA",job_type.onsite_full_time,job_status.vacant
+48269,70548,Legal Secretary,5932800,"Buenos Aires, Argentina",job_type.onsite_part_time,job_status.vacant
+19228,93094,Web Developer,1675400,"Chiang Mai, Thailand",job_type.onsite_part_time,job_status.vacant
+49220,91043,Data Analyst,1959000,"Minneapolis, USA",job_type.onsite_part_time,job_status.vacant
+66431,55853,Purchasing Manager,6985700,"Chiang Mai, Thailand",job_type.onsite_full_time,job_status.vacant
+40958,96774,Business Analyst,1469600,"San Francisco, USA",job_type.remote_part_time,job_status.vacant
+58563,91043,Marketing Analyst,5926700,"St. Louis, USA",job_type.remote_full_time,job_status.vacant
+43842,35142,Customer Support Specialist,5686000,"Moscow, Russia",job_type.onsite_part_time,job_status.vacant
+41215,43521,Cybersecurity Analyst,5353700,"Prague, Czech Republic",job_type.remote_full_time,job_status.vacant
+55503,56550,HR Coordinator,5576000,"San Bernardino, USA",job_type.onsite_part_time,job_status.vacant
+31100,56867,Medical Billing Specialist,1457700,"Gilbert, USA",job_type.onsite_full_time,job_status.vacant
+67907,31445,Marketing Communications Manager,138600,"Austin, USA",job_type.onsite_full_time,job_status.vacant
+94466,35155,Legal Assistant,6458100,"St. Petersburg, USA",job_type.remote_part_time,job_status.vacant
+23085,42897,Network Analyst,7723400,"Bologna, Italy",job_type.remote_part_time,job_status.vacant
+84477,93585,Financial Analyst,8969200,"Nairobi, Kenya",job_type.onsite_part_time,job_status.vacant
+9062,1539,Human Resources Manager,8423300,"Fontana, USA",job_type.onsite_full_time,job_status.vacant
+43183,39792,Brand Manager,1074000,"Denver, USA",job_type.remote_full_time,job_status.vacant
+27015,70704,Insurance Underwriter,1347600,"Mexico City, Mexico",job_type.remote_full_time,job_status.vacant
+92760,119,Digital Content Creator,9348700,"Marrakech, Morocco",job_type.onsite_full_time,job_status.vacant
+20198,50379,Sales Coordinator,4700900,"Zurich, Switzerland",job_type.remote_part_time,job_status.vacant
+92197,83911,Marketing Analyst,3669400,"Nairobi, Kenya",job_type.onsite_part_time,job_status.vacant
+99589,48542,Research Scientist,4314300,"Madrid, Spain",job_type.onsite_full_time,job_status.vacant
+17352,17808,Social Media Specialist,4088800,"Dar es Salaam, Tanzania",job_type.onsite_part_time,job_status.vacant
+85624,13567,Customer Success Manager,2484500,"Porto, Portugal",job_type.remote_part_time,job_status.vacant
+31608,91043,Brand Strategist,2922700,"Marrakech, Morocco",job_type.remote_part_time,job_status.vacant
+15058,27486,Regulatory Affairs Specialist,4587500,"Istanbul, Turkey",job_type.remote_part_time,job_status.vacant
+70629,56550,Interior Designer,4434000,"Auckland, New Zealand",job_type.remote_part_time,job_status.vacant
+17367,79856,HR Specialist,4822700,"Irving, USA",job_type.onsite_part_time,job_status.vacant
+66300,76334,Accountant,4103200,"Jersey City, USA",job_type.onsite_part_time,job_status.vacant
+83129,31445,Mechanical Engineer,8653400,"Huntington Beach, USA",job_type.onsite_full_time,job_status.vacant
+99390,88136,Accountant,8238300,"San Jose, USA",job_type.remote_full_time,job_status.vacant
+4175,5216,Research Coordinator,345300,"Newark, USA",job_type.remote_full_time,job_status.vacant
+9690,23465,Business Development Coordinator,1140700,"Dubai, UAE",job_type.remote_part_time,job_status.vacant
+98997,56949,HR Coordinator,6702400,"Charlotte, USA",job_type.remote_full_time,job_status.vacant
+66201,41932,Quality Control Inspector,9768800,"Columbus, USA",job_type.remote_full_time,job_status.vacant
+35391,48407,Legal Secretary,7365300,"Helsinki, Finland",job_type.remote_full_time,job_status.vacant
+89061,1498,Architect,7718600,"Buenos Aires, Argentina",job_type.remote_part_time,job_status.vacant
+20571,8786,Software Developer,1554400,"Seoul, South Korea",job_type.remote_part_time,job_status.vacant
+90666,71222,IT Consultant,6867400,"Tokyo, Japan",job_type.onsite_full_time,job_status.vacant
+7650,1498,Electrical Engineer,4715000,"Detroit, USA",job_type.remote_part_time,job_status.vacant
+6241,9259,Digital Content Creator,8179800,"Stockholm, Sweden",job_type.onsite_part_time,job_status.vacant
+21859,22617,Supply Chain Specialist,6358300,"Kuala Lumpur, Malaysia",job_type.remote_full_time,job_status.vacant
+6719,48079,Business Consultant,1424300,"Scottsdale, USA",job_type.remote_part_time,job_status.vacant
+90102,47708,HR Assistant,5533700,"Adelaide, Australia",job_type.onsite_part_time,job_status.vacant
+17234,66608,Sales Associate,551700,"Greensboro, USA",job_type.onsite_full_time,job_status.vacant
+93223,61483,Market Research Assistant,8621000,"Corpus Christi, USA",job_type.onsite_part_time,job_status.vacant
+62088,5413,IT Security Analyst,7161500,"Jaipur, India",job_type.onsite_full_time,job_status.vacant
+42639,91276,Data Scientist,3737600,"Jacksonville, USA",job_type.onsite_part_time,job_status.vacant
+11419,59276,Financial Advisor,8002400,"Perth, Australia",job_type.remote_part_time,job_status.vacant
+51197,72737,Copywriter,1563600,"Tel Aviv, Israel",job_type.remote_full_time,job_status.vacant
+62926,70427,Nurse Manager,7469500,"Baltimore, USA",job_type.onsite_full_time,job_status.vacant
+5610,56867,Project Manager,5904000,"San Antonio, USA",job_type.remote_part_time,job_status.vacant
+43471,31445,Content Manager,3812700,"Paris, France",job_type.onsite_part_time,job_status.vacant
+70862,70864,Investment Banker,6180200,"Tucson, USA",job_type.remote_part_time,job_status.vacant
+45828,83911,Marketing Specialist,6660800,"Gilbert, USA",job_type.remote_part_time,job_status.vacant
+38138,30099,Content Writer,1841100,"Toronto, Canada",job_type.remote_full_time,job_status.vacant
+2529,93585,Marketing Director,3330200,"Bucharest, Romania",job_type.onsite_full_time,job_status.vacant
+42306,50925,Occupational Therapist,5248500,"Raleigh, USA",job_type.onsite_part_time,job_status.vacant
+83866,31001,HR Specialist,1630700,"Shanghai, China",job_type.onsite_full_time,job_status.vacant
+45530,50900,Real Estate Agent,8307000,"Abuja, Nigeria",job_type.remote_full_time,job_status.vacant
+70705,82267,Content Manager,759400,"Albuquerque, USA",job_type.onsite_full_time,job_status.vacant
+47963,14547,Biomedical Engineer,5428200,"Santa Ana, USA",job_type.onsite_full_time,job_status.vacant
+85636,10610,Operations Manager,1522600,"Las Vegas, USA",job_type.onsite_full_time,job_status.vacant
+82853,70634,HR Assistant,1729800,"Lyon, France",job_type.onsite_part_time,job_status.vacant
+26755,82267,Operations Analyst,6472900,"Venice, Italy",job_type.remote_full_time,job_status.vacant
+39104,50925,Customer Success Manager,9238200,"Shanghai, China",job_type.onsite_part_time,job_status.vacant
+3730,6045,Compliance Officer,7057200,"Virginia Beach, USA",job_type.onsite_full_time,job_status.vacant
+75812,54618,Interior Decorator,8588800,"Riverside, USA",job_type.onsite_full_time,job_status.vacant
+65743,31001,Administrative Assistant,3735100,"Vancouver, Canada",job_type.remote_part_time,job_status.vacant
+23654,3758,Physical Therapy Assistant,8132000,"Kansas City, USA",job_type.remote_full_time,job_status.vacant
+59110,22020,Corporate Trainer,8986200,"Raleigh, USA",job_type.onsite_part_time,job_status.vacant
+67983,3758,Market Research Analyst,286100,"Aurora, USA",job_type.onsite_full_time,job_status.vacant
+53867,276,Production Supervisor,9785800,"Fayetteville, USA",job_type.onsite_full_time,job_status.vacant
+87231,8539,Legal Secretary,2435900,"Mexico City, Mexico",job_type.onsite_part_time,job_status.vacant
+32775,5413,Account Coordinator,5811500,"Kyoto, Japan",job_type.remote_full_time,job_status.vacant
+75726,5991,Business Consultant,1570900,"Vienna, Austria",job_type.remote_full_time,job_status.vacant
+77968,26386,Nurse Practitioner,6806200,"Melbourne, Australia",job_type.remote_part_time,job_status.vacant
+24895,48542,Logistics Manager,9834200,"Nairobi, Kenya",job_type.onsite_part_time,job_status.vacant
+78039,79856,Research Assistant,5784300,"Oxnard, USA",job_type.onsite_part_time,job_status.vacant
+25010,34863,Financial Planner,6092200,"Baton Rouge, USA",job_type.remote_part_time,job_status.vacant
+36129,44013,Operations Supervisor,6196000,"Charleston, USA",job_type.remote_part_time,job_status.vacant
+33796,80294,Customer Support Specialist,2170500,"Las Vegas, USA",job_type.onsite_part_time,job_status.vacant
+53345,8786,Legal Counsel,2644500,"Seattle, USA",job_type.onsite_full_time,job_status.vacant
+97860,276,UI/UX Developer,3884000,"Fremont, USA",job_type.remote_part_time,job_status.vacant
+12523,1539,HR Recruiter,2823800,"Jersey City, USA",job_type.remote_part_time,job_status.vacant
+10357,72737,Physical Therapist,9564500,"Abu Dhabi, UAE",job_type.onsite_full_time,job_status.vacant
+48787,91301,Product Manager,2929300,"Bucharest, Romania",job_type.remote_full_time,job_status.vacant
+32961,10610,Medical Records Clerk,2674600,"Lima, Peru",job_type.onsite_full_time,job_status.vacant
+63377,71362,SEO Specialist,179500,"Anaheim, USA",job_type.onsite_part_time,job_status.vacant
+76231,63656,Customer Service Representative,7174700,"Nairobi, Kenya",job_type.onsite_part_time,job_status.vacant
+98545,71362,Graphic Artist,6076800,"Santa Ana, USA",job_type.onsite_full_time,job_status.vacant
+93606,93585,Marketing Specialist,7724600,"Nairobi, Kenya",job_type.remote_part_time,job_status.vacant
+24515,35155,Marketing Analyst,3015400,"Prague, Czech Republic",job_type.onsite_part_time,job_status.vacant
+19006,9259,Electrician,2666100,"Oakland, USA",job_type.onsite_part_time,job_status.vacant
+23857,47327,Lawyer,3684600,"Fremont, USA",job_type.onsite_part_time,job_status.vacant
+72736,34502,Public Accountant,5811200,"Atlanta, USA",job_type.remote_part_time,job_status.vacant
+46986,72737,Marketing Analyst,2738700,"Salzburg, Austria",job_type.remote_full_time,job_status.vacant
+20201,74230,Financial Analyst,4836100,"Seattle, USA",job_type.onsite_full_time,job_status.vacant
+88224,5692,Systems Administrator,8353100,"Hyderabad, India",job_type.onsite_part_time,job_status.vacant
+8470,5991,Investment Banker,4380300,"New York City, USA",job_type.onsite_part_time,job_status.vacant
+82770,3758,Environmental Scientist,3174300,"Helsinki, Finland",job_type.onsite_part_time,job_status.vacant
+1988,17808,Digital Marketing Specialist,2124300,"Budapest, Hungary",job_type.remote_full_time,job_status.vacant
+45482,47708,Quality Assurance Engineer,1214100,"Albuquerque, USA",job_type.remote_full_time,job_status.vacant
+90853,88498,Graphic Designer,8072200,"Amsterdam, Netherlands",job_type.onsite_part_time,job_status.vacant
+52264,56867,Marketing Assistant,7991500,"Philadelphia, USA",job_type.onsite_full_time,job_status.vacant
+59985,34672,Financial Manager,4554100,"Columbus, USA",job_type.onsite_part_time,job_status.vacant
+57201,94529,Human Resources Manager,8584200,"Newark, USA",job_type.remote_part_time,job_status.vacant
+35304,48079,Marketing Communications Manager,8793000,"Detroit, USA",job_type.remote_full_time,job_status.vacant
+58004,10776,Network Technician,4116800,"Toronto, Canada",job_type.onsite_part_time,job_status.vacant
+73255,9361,Environmental Engineer,8020100,"Stockholm, Sweden",job_type.onsite_full_time,job_status.vacant
+68042,50885,Legal Analyst,4025800,"Bakersfield, USA",job_type.onsite_part_time,job_status.vacant
+1592,81829,Logistics Manager,5232600,"Paris, France",job_type.remote_part_time,job_status.vacant
+89097,89657,Business Development Executive,7447600,"Xi'an, China",job_type.remote_part_time,job_status.vacant
+91436,40187,Tax Preparer,9642700,"Rio de Janeiro, Brazil",job_type.remote_full_time,job_status.vacant
+38908,92887,Digital Marketing Manager,8203100,"Garland, USA",job_type.onsite_full_time,job_status.vacant
+65837,84040,Medical Billing Specialist,8497600,"Indianapolis, USA",job_type.remote_full_time,job_status.vacant
+39726,45130,Physical Therapist,1602600,"Barcelona, Spain",job_type.remote_full_time,job_status.vacant
+79144,1539,Sales Support Specialist,5951000,"Cape Town, South Africa",job_type.remote_full_time,job_status.vacant
+28092,5991,IT Manager,5351400,"Salzburg, Austria",job_type.remote_part_time,job_status.vacant
+29496,50885,Health Educator,9712500,"Lisbon, Portugal",job_type.remote_part_time,job_status.vacant
+6330,8786,Public Relations Manager,7793500,"Adelaide, Australia",job_type.onsite_full_time,job_status.vacant
+59622,2449,Business Operations Manager,7228800,"Tacoma, USA",job_type.remote_full_time,job_status.vacant
+13844,50605,Sales Support Specialist,8085600,"Kansas City, USA",job_type.remote_full_time,job_status.vacant
+81516,27355,Insurance Underwriter,207300,"Dublin, Ireland",job_type.onsite_full_time,job_status.vacant
+18709,67746,Market Research Assistant,7748700,"Glendale, USA",job_type.remote_part_time,job_status.vacant
+49869,43999,Electrician,2754300,"Copenhagen, Denmark",job_type.onsite_full_time,job_status.vacant
+18009,79254,Accountant,8084400,"Pittsburgh, USA",job_type.remote_full_time,job_status.vacant
+90580,82382,Multimedia Artist,4191200,"Lima, Peru",job_type.onsite_full_time,job_status.vacant
+33664,99593,Corporate Trainer,4130800,"Baton Rouge, USA",job_type.remote_part_time,job_status.vacant
+28782,18869,Human Resources Manager,9724100,"San Antonio, USA",job_type.remote_part_time,job_status.vacant
+6129,16706,Construction Manager,4362200,"Abuja, Nigeria",job_type.onsite_full_time,job_status.vacant
+10508,98302,Quality Assurance Analyst,7888600,"Toledo, USA",job_type.onsite_full_time,job_status.vacant
+76704,16706,Medical Technologist,7697400,"Milwaukee, USA",job_type.onsite_full_time,job_status.vacant
+28957,5834,HR Manager,2110800,"Oxnard, USA",job_type.onsite_part_time,job_status.vacant
+15484,30679,IT Security Specialist,1517000,"Saint Petersburg, Russia",job_type.onsite_part_time,job_status.vacant
+32410,14622,SEO Specialist,3670400,"Budapest, Hungary",job_type.remote_part_time,job_status.vacant
+73102,30679,Legal Assistant,5495400,"Brasília, Brazil",job_type.remote_full_time,job_status.vacant
+62639,89657,Financial Risk Analyst,4602400,"Aurora, USA",job_type.remote_part_time,job_status.vacant
+47541,48407,Sales Support Specialist,5180100,"Scottsdale, USA",job_type.remote_part_time,job_status.vacant
+81676,59276,Marketing Specialist,1001700,"Cape Town, South Africa",job_type.remote_full_time,job_status.vacant
+19005,41804,Business Analyst,5528500,"Nairobi, Kenya",job_type.onsite_full_time,job_status.vacant
+70453,79254,Web Developer,8763100,"Virginia Beach, USA",job_type.remote_full_time,job_status.vacant
+61589,18869,Event Coordinator,5601900,"Jersey City, USA",job_type.onsite_full_time,job_status.vacant
+79833,5413,Nurse Practitioner,1100000,"Irving, USA",job_type.onsite_part_time,job_status.vacant
+6892,71737,Graphic Artist,9168000,"Mexico City, Mexico",job_type.onsite_full_time,job_status.vacant
+85403,70864,Customer Experience Manager,9647200,"Birmingham, USA",job_type.remote_full_time,job_status.vacant
+57644,50925,Product Owner,9034800,"Madison, USA",job_type.remote_part_time,job_status.vacant
+44171,66608,Logistics Coordinator,8832400,"Tacoma, USA",job_type.remote_part_time,job_status.vacant
+29793,56188,Financial Controller,1237800,"Long Beach, USA",job_type.onsite_full_time,job_status.vacant
+36359,41932,Network Analyst,9713900,"Budapest, Hungary",job_type.onsite_part_time,job_status.vacant
+12187,19248,Operations Supervisor,8580100,"Kyoto, Japan",job_type.onsite_full_time,job_status.vacant
+2706,98753,SEO Specialist,1886400,"Tokyo, Japan",job_type.remote_part_time,job_status.vacant
+85501,15205,Financial Clerk,6370500,"Toronto, Canada",job_type.remote_full_time,job_status.vacant
+24878,44556,IT Security Specialist,6083300,"Chesapeake, USA",job_type.remote_full_time,job_status.vacant
+69761,97028,Project Manager,9106000,"Paris, France",job_type.onsite_part_time,job_status.vacant
+3517,56146,Sales Support Specialist,1188500,"Irvine, USA",job_type.onsite_part_time,job_status.vacant
+22336,47993,Digital Marketing Specialist,4153400,"Durham, USA",job_type.onsite_part_time,job_status.vacant
+74973,63492,SEO Specialist,4148200,"Washington D.C., USA",job_type.remote_part_time,job_status.vacant
+59996,74593,Insurance Claims Adjuster,2921800,"Hong Kong, China",job_type.onsite_part_time,job_status.vacant
+46438,40187,Financial Advisor,4961200,"Chengdu, China",job_type.onsite_part_time,job_status.vacant
+78483,1498,Purchasing Manager,9585700,"Santiago, Chile",job_type.onsite_full_time,job_status.vacant
+59535,5216,Graphic Designer,7849700,"Amsterdam, Netherlands",job_type.onsite_part_time,job_status.vacant
+63508,276,Financial Auditor,9863000,"Marrakech, Morocco",job_type.remote_part_time,job_status.vacant
+55285,54618,Financial Clerk,4878600,"Portland, USA",job_type.onsite_part_time,job_status.vacant
+76710,5413,Graphic Designer,7044200,"Athens, Greece",job_type.remote_part_time,job_status.vacant
+36561,51230,HR Generalist,6717800,"Columbus, USA",job_type.remote_full_time,job_status.vacant
+32137,63492,Production Supervisor,5589300,"Newark, USA",job_type.remote_full_time,job_status.vacant
+70271,63492,Financial Risk Analyst,3340500,"Brasília, Brazil",job_type.onsite_full_time,job_status.vacant
+52076,10610,Financial Manager,167900,"Laredo, USA",job_type.remote_part_time,job_status.vacant
+80808,81829,Marketing Director,8253400,"Des Moines, USA",job_type.remote_part_time,job_status.vacant
+16309,39087,Event Planner,6988300,"Arlington, USA",job_type.onsite_part_time,job_status.vacant
+29656,3758,Legal Analyst,8607800,"Modesto, USA",job_type.remote_part_time,job_status.vacant
+78526,82382,Dental Assistant,5751000,"Chesapeake, USA",job_type.onsite_part_time,job_status.vacant
+66022,5061,Database Administrator,986000,"Nairobi, Kenya",job_type.onsite_full_time,job_status.vacant
+51612,87831,Business Consultant,1682800,"Tel Aviv, Israel",job_type.remote_full_time,job_status.vacant
+657,91043,Biomedical Engineer,6827400,"Moreno Valley, USA",job_type.remote_part_time,job_status.vacant
+7831,19248,Event Manager,8782300,"New York City, USA",job_type.onsite_part_time,job_status.vacant
+14723,213,Quality Assurance Engineer,6082000,"Philadelphia, USA",job_type.remote_full_time,job_status.vacant
+48431,47993,Marketing Analyst,6577800,"Bucharest, Romania",job_type.remote_part_time,job_status.vacant
+65301,49186,Marketing Analyst,2191300,"Santa Ana, USA",job_type.remote_full_time,job_status.vacant
+55151,81311,Financial Analyst,3273900,"Salzburg, Austria",job_type.onsite_full_time,job_status.vacant
+72365,276,Operations Analyst,1030700,"Orlando, USA",job_type.onsite_full_time,job_status.vacant
+47212,39197,Network Security Engineer,2433300,"Glendale, USA",job_type.remote_part_time,job_status.vacant
+9317,94106,Electrical Engineer,9364500,"Indianapolis, USA",job_type.onsite_full_time,job_status.vacant
+4984,12977,Occupational Therapist Assistant,854000,"St. Paul, USA",job_type.remote_full_time,job_status.vacant
+52042,78538,Legal Researcher,6652400,"Dubai, UAE",job_type.remote_full_time,job_status.vacant
+69606,70400,Legal Assistant,9004500,"Cape Town, South Africa",job_type.remote_part_time,job_status.vacant
+91661,41804,Human Resources Manager,149600,"Prague, Czech Republic",job_type.onsite_full_time,job_status.vacant
+64484,8786,Network Analyst,6619800,"Tel Aviv, Israel",job_type.onsite_part_time,job_status.vacant
+55781,10610,Pharmacist,5657200,"Stockton, USA",job_type.remote_part_time,job_status.vacant
+94745,71222,Business Development Coordinator,4695900,"Reykjavik, Iceland",job_type.remote_full_time,job_status.vacant
+66454,26386,HR Coordinator,5285800,"Tampa, USA",job_type.remote_part_time,job_status.vacant
+11034,34910,Recruiting Coordinator,9309900,"Madison, USA",job_type.onsite_full_time,job_status.vacant
+26576,10584,Executive Assistant,3577700,"Miami, USA",job_type.onsite_full_time,job_status.vacant
+18219,99593,Legal Counsel,9337400,"Tokyo, Japan",job_type.remote_part_time,job_status.vacant
+95485,55853,Social Media Manager,5819400,"St. Louis, USA",job_type.onsite_full_time,job_status.vacant
+54111,16706,IT Specialist,4483300,"Nashville, USA",job_type.onsite_full_time,job_status.vacant
+64527,27486,Medical Laboratory Technician,4692100,"Milwaukee, USA",job_type.remote_full_time,job_status.vacant
+50208,44556,HR Manager,6005300,"Rome, Italy",job_type.onsite_full_time,job_status.vacant
+74274,83904,Tax Preparer,5304100,"Paris, France",job_type.onsite_part_time,job_status.vacant
+15004,79856,Supply Chain Specialist,7961000,"Shanghai, China",job_type.onsite_full_time,job_status.vacant
+87913,66589,Talent Acquisition Specialist,6308500,"Chesapeake, USA",job_type.remote_part_time,job_status.vacant
+99209,13567,Technical Support Engineer,4230800,"Savannah, USA",job_type.onsite_full_time,job_status.vacant
+70583,94380,Occupational Therapist,6312400,"Saint Petersburg, Russia",job_type.onsite_part_time,job_status.vacant
+73144,76875,Sales Manager,7383400,"Columbus, USA",job_type.onsite_part_time,job_status.vacant
+37703,42943,Digital Marketing Manager,876000,"Moscow, Russia",job_type.onsite_full_time,job_status.vacant
+18119,71515,IT Consultant,9573200,"Tokyo, Japan",job_type.onsite_part_time,job_status.vacant
+61789,88190,Biomedical Engineer,7025600,"Fontana, USA",job_type.remote_part_time,job_status.vacant
+7109,74230,Marketing Coordinator,5858900,"Kyoto, Japan",job_type.remote_full_time,job_status.vacant
+9894,22617,Technical Writer,3184500,"Lisbon, Portugal",job_type.remote_full_time,job_status.vacant
+95257,48431,Tax Preparer,8504800,"Norfolk, USA",job_type.remote_full_time,job_status.vacant
+25673,62746,Accountant,7763800,"Lima, Peru",job_type.onsite_part_time,job_status.vacant
+46322,91043,IT Manager,3368400,"Cape Town, South Africa",job_type.onsite_full_time,job_status.vacant
+88676,98956,Financial Auditor,557300,"Baton Rouge, USA",job_type.remote_part_time,job_status.vacant
+67408,41804,Product Marketing Manager,7848900,"Garland, USA",job_type.remote_part_time,job_status.vacant
+28477,42943,Operations Manager,7620600,"Albuquerque, USA",job_type.remote_full_time,job_status.vacant
+11930,18207,HR Specialist,9252800,"London, England",job_type.onsite_full_time,job_status.vacant
+85904,46441,Network Security Engineer,6785700,"Bologna, Italy",job_type.remote_full_time,job_status.vacant
+21134,13227,Healthcare Consultant,5017600,"Fresno, USA",job_type.onsite_full_time,job_status.vacant
+75790,5834,Interior Decorator,5559800,"Manchester, England",job_type.onsite_full_time,job_status.vacant
+87163,62823,Sales Manager,4089600,"Seattle, USA",job_type.remote_full_time,job_status.vacant
+99229,88190,Financial Auditor,1027200,"Nashville, USA",job_type.onsite_part_time,job_status.vacant
+25000,56550,Interior Designer,9550800,"Singapore City, Singapore",job_type.remote_full_time,job_status.vacant
+34459,91043,Nurse Practitioner,6473100,"Toronto, Canada",job_type.onsite_part_time,job_status.vacant
+64818,2449,Research Scientist,9418900,"Detroit, USA",job_type.onsite_full_time,job_status.vacant
+86831,3890,Logistics Manager,1861800,"Fayetteville, USA",job_type.remote_part_time,job_status.vacant
+58651,81829,Cybersecurity Engineer,5935800,"Milwaukee, USA",job_type.onsite_full_time,job_status.vacant
+9829,12977,Event Planner,7263600,"Boston, USA",job_type.remote_part_time,job_status.vacant
+85948,63656,IT Project Manager,3429200,"Bucharest, Romania",job_type.remote_part_time,job_status.vacant
+15826,5834,Business Analyst,3139600,"Xi'an, China",job_type.remote_part_time,job_status.vacant
+90139,35142,Financial Manager,5007400,"Adelaide, Australia",job_type.onsite_part_time,job_status.vacant
+66801,86446,Software Developer,4509700,"Shanghai, China",job_type.onsite_full_time,job_status.vacant
+62095,43932,Graphic Artist,2404000,"Baltimore, USA",job_type.remote_full_time,job_status.vacant
+15896,48542,Product Owner,5674700,"Chengdu, China",job_type.onsite_part_time,job_status.vacant
+85825,89079,HR Generalist,3003900,"Yonkers, USA",job_type.remote_part_time,job_status.vacant
+69506,9850,Data Entry Clerk,7575800,"Melbourne, Australia",job_type.remote_part_time,job_status.vacant
+38264,5061,Cybersecurity Engineer,4792300,"Florence, Italy",job_type.remote_full_time,job_status.vacant
+68353,98856,Web Developer,4493300,"Bogotá, Colombia",job_type.onsite_part_time,job_status.vacant
+25073,35142,Nurse Practitioner,3344300,"Bologna, Italy",job_type.onsite_full_time,job_status.vacant
+76170,47708,HR Coordinator,2603000,"St. Louis, USA",job_type.onsite_part_time,job_status.vacant
+37456,48431,Recruiting Coordinator,8479200,"Wichita, USA",job_type.onsite_part_time,job_status.vacant
+94830,56550,IT Auditor,4260400,"Vancouver, Canada",job_type.onsite_full_time,job_status.vacant
+32558,58983,Supply Chain Analyst,1360500,"Los Angeles, USA",job_type.onsite_part_time,job_status.vacant
+48863,34187,Marketing Coordinator,8645200,"Rome, Italy",job_type.onsite_full_time,job_status.vacant
+47552,43999,IT Manager,108600,"Fontana, USA",job_type.onsite_full_time,job_status.vacant
+56704,88136,Environmental Engineer,2454200,"Fort Wayne, USA",job_type.remote_full_time,job_status.vacant
+60620,3758,Production Supervisor,7746600,"Lisbon, Portugal",job_type.onsite_part_time,job_status.vacant
+92225,98302,Supply Chain Coordinator,3296800,"Rio de Janeiro, Brazil",job_type.onsite_full_time,job_status.vacant
+35524,78538,Accountant,5050400,"Seville, Spain",job_type.remote_part_time,job_status.vacant
+57258,35155,UX Designer,6604200,"Washington D.C., USA",job_type.onsite_part_time,job_status.vacant
+1803,40315,Healthcare Consultant,6019900,"Abuja, Nigeria",job_type.remote_full_time,job_status.vacant
+98501,45130,Graphic Designer,4449100,"Guangzhou, China",job_type.remote_full_time,job_status.vacant
+2608,56550,IT Administrator,5864400,"Stockholm, Sweden",job_type.remote_part_time,job_status.vacant
+17113,89657,Electrician,224600,"Lubbock, USA",job_type.onsite_full_time,job_status.vacant
+60461,53619,Network Administrator,1062000,"Seattle, USA",job_type.onsite_part_time,job_status.vacant
+38208,4713,Financial Risk Analyst,5141200,"Moscow, Russia",job_type.remote_full_time,job_status.vacant
+31863,49186,Event Planner,3095700,"Seoul, South Korea",job_type.remote_full_time,job_status.vacant
+30920,49186,Insurance Claims Adjuster,3055700,"Oslo, Norway",job_type.onsite_full_time,job_status.vacant
+91356,89657,Software Engineer,4480500,"Wichita, USA",job_type.onsite_part_time,job_status.vacant
+31157,42897,Construction Manager,6203000,"Tacoma, USA",job_type.remote_part_time,job_status.vacant
+65713,94529,Data Entry Specialist,4781800,"Savannah, USA",job_type.remote_part_time,job_status.vacant
+94856,119,Social Worker,7550900,"Tulsa, USA",job_type.onsite_part_time,job_status.vacant
+90128,5991,Market Research Manager,4894100,"Kyoto, Japan",job_type.onsite_part_time,job_status.vacant
+23399,53725,Financial Advisor,8083200,"Athens, Greece",job_type.onsite_full_time,job_status.vacant
+88903,13227,Research Assistant,1634900,"Buenos Aires, Argentina",job_type.onsite_full_time,job_status.vacant
+2984,5216,Supply Chain Analyst,5942700,"Salzburg, Austria",job_type.onsite_full_time,job_status.vacant
+51829,4713,Compliance Officer,1251200,"Madison, USA",job_type.onsite_full_time,job_status.vacant
+87956,88190,Technical Support Engineer,658800,"Budapest, Hungary",job_type.remote_part_time,job_status.vacant
+52974,35155,Financial Analyst,1539500,"Berlin, Germany",job_type.remote_part_time,job_status.vacant
+18639,62823,Healthcare Consultant,2213000,"Chengdu, China",job_type.onsite_full_time,job_status.vacant
+36050,59770,Teacher,9084300,"San Antonio, USA",job_type.remote_full_time,job_status.vacant
+66968,89657,Multimedia Artist,1467000,"Cleveland, USA",job_type.remote_full_time,job_status.vacant
+71130,49858,Market Research Manager,2951800,"Toronto, Canada",job_type.remote_full_time,job_status.vacant
+14443,20995,Product Owner,291400,"Oxnard, USA",job_type.remote_full_time,job_status.vacant
+39973,52530,Nurse Manager,7092400,"Nairobi, Kenya",job_type.remote_full_time,job_status.vacant
+82956,56867,Operations Manager,6601300,"Gilbert, USA",job_type.onsite_part_time,job_status.vacant
+27908,59022,SEO Specialist,9576600,"Prague, Czech Republic",job_type.onsite_part_time,job_status.vacant
+30963,27355,Research Scientist,8387000,"Shanghai, China",job_type.onsite_part_time,job_status.vacant
+34932,71515,Mechanical Engineer,8464900,"Stockholm, Sweden",job_type.remote_full_time,job_status.vacant
+34900,47993,Product Marketing Manager,6767500,"Berlin, Germany",job_type.remote_part_time,job_status.vacant
+67696,34910,Quality Assurance Engineer,1750300,"Salzburg, Austria",job_type.onsite_part_time,job_status.vacant
+70466,94106,Investment Analyst,4237900,"Bologna, Italy",job_type.remote_part_time,job_status.vacant
+92258,96774,Quality Control Inspector,9298400,"Minneapolis, USA",job_type.remote_full_time,job_status.vacant
+59365,56188,Electrical Engineer,3952700,"Tacoma, USA",job_type.onsite_full_time,job_status.vacant
+45433,82267,Talent Manager,5839300,"Seoul, South Korea",job_type.onsite_part_time,job_status.vacant
+92528,9750,Financial Analyst,4127000,"Buenos Aires, Argentina",job_type.onsite_full_time,job_status.vacant
+76402,98753,HR Recruiter,9988700,"Munich, Germany",job_type.onsite_full_time,job_status.vacant
+34619,34910,Digital Marketing Manager,7302700,"Cairo, Egypt",job_type.onsite_full_time,job_status.vacant
+14101,98856,Electrical Engineer,352100,"Lexington, USA",job_type.onsite_full_time,job_status.vacant
+29678,31349,Lawyer,208900,"Seattle, USA",job_type.onsite_part_time,job_status.vacant
+24239,41932,Operations Analyst,178900,"Chula Vista, USA",job_type.remote_part_time,job_status.vacant
+13849,31001,Legal Analyst,3035800,"Kyoto, Japan",job_type.remote_full_time,job_status.vacant
+65880,9259,Teacher,8572200,"Austin, USA",job_type.onsite_part_time,job_status.vacant
+31785,15205,Public Relations Manager,1628300,"Des Moines, USA",job_type.onsite_part_time,job_status.vacant
+87565,83904,Data Analyst,9690000,"Lexington, USA",job_type.onsite_part_time,job_status.vacant
+18912,5413,Multimedia Artist,2195200,"Amsterdam, Netherlands",job_type.onsite_part_time,job_status.vacant
+31356,14622,HR Generalist,6877700,"Omaha, USA",job_type.onsite_full_time,job_status.vacant
+56072,39792,Marketing Assistant,491700,"Florence, Italy",job_type.remote_full_time,job_status.vacant
+43868,72737,Sales Associate,9447700,"Norfolk, USA",job_type.remote_part_time,job_status.vacant
+32968,70634,Health Educator,413600,"Vancouver, Canada",job_type.remote_full_time,job_status.vacant
+42741,69715,Financial Analyst,1619400,"Milwaukee, USA",job_type.onsite_full_time,job_status.vacant
+21553,61483,Business Systems Analyst,3402500,"Albuquerque, USA",job_type.onsite_part_time,job_status.vacant
+75297,9259,Financial Analyst,4886300,"Budapest, Hungary",job_type.remote_full_time,job_status.vacant
+32358,9916,Digital Content Creator,9274000,"Aurora, USA",job_type.remote_full_time,job_status.vacant
+40255,10584,Technical Support Specialist,6214600,"Phoenix, USA",job_type.onsite_full_time,job_status.vacant
+79214,59022,Social Media Manager,6697000,"Chiang Mai, Thailand",job_type.onsite_full_time,job_status.vacant
+85045,3890,Marketing Communications Manager,9238400,"Newark, USA",job_type.onsite_full_time,job_status.vacant
+72033,53725,Medical Technologist,4842000,"Manchester, England",job_type.onsite_full_time,job_status.vacant
+37854,71737,Dental Hygienist,3596300,"Irving, USA",job_type.remote_part_time,job_status.vacant
+91310,42897,Occupational Therapist,8961700,"Tacoma, USA",job_type.onsite_full_time,job_status.vacant
+10730,5834,Technical Writer,6728000,"Irvine, USA",job_type.remote_part_time,job_status.vacant
+37248,9361,Data Analyst,3548000,"Budapest, Hungary",job_type.onsite_full_time,job_status.vacant
+82801,40315,Financial Planner,4595800,"Helsinki, Finland",job_type.remote_full_time,job_status.vacant
+17316,47993,Marketing Assistant,261300,"Rio de Janeiro, Brazil",job_type.remote_part_time,job_status.vacant
+57853,82461,Interior Designer,1225200,"Salzburg, Austria",job_type.remote_full_time,job_status.vacant
+62827,97028,Research Assistant,4164400,"Memphis, USA",job_type.onsite_part_time,job_status.vacant
+18259,79856,Digital Marketing Coordinator,4287900,"Amsterdam, Netherlands",job_type.remote_full_time,job_status.vacant
+77679,8321,Medical Technologist,8132100,"Salzburg, Austria",job_type.remote_full_time,job_status.vacant
+5529,70864,Digital Marketing Coordinator,6920500,"San Bernardino, USA",job_type.remote_full_time,job_status.vacant
+10373,39197,Marketing Communications Manager,2870300,"Denver, USA",job_type.onsite_full_time,job_status.vacant
+23564,98956,Investment Advisor,1589000,"Copenhagen, Denmark",job_type.onsite_part_time,job_status.vacant
+38255,12977,Mechanical Engineer,5110200,"Henderson, USA",job_type.remote_full_time,job_status.vacant
+7377,14547,Event Planner,3848700,"Cairo, Egypt",job_type.onsite_part_time,job_status.vacant
+26974,50605,Real Estate Agent,8486100,"Cincinnati, USA",job_type.remote_full_time,job_status.vacant
+95099,50605,Medical Billing Specialist,5079000,"Washington D.C., USA",job_type.onsite_full_time,job_status.vacant
+89880,92887,Business Systems Analyst,2809800,"Cologne, Germany",job_type.remote_part_time,job_status.vacant
+34534,39197,Environmental Engineer,5623800,"Shanghai, China",job_type.onsite_part_time,job_status.vacant
+83701,30000,Medical Technologist,5607200,"Oklahoma City, USA",job_type.remote_part_time,job_status.vacant
+90522,96774,Financial Analyst,4716800,"Kansas City, USA",job_type.onsite_full_time,job_status.vacant
+63470,70400,Recruitment Specialist,3177800,"Chesapeake, USA",job_type.onsite_part_time,job_status.vacant
+66159,97295,Account Manager,1534200,"Baton Rouge, USA",job_type.onsite_part_time,job_status.vacant
+78965,9850,Mechanical Engineer,4337700,"Marseille, France",job_type.onsite_part_time,job_status.vacant
+87346,80656,Public Relations Manager,3562900,"Saint Petersburg, Russia",job_type.remote_part_time,job_status.vacant
+66610,59022,Cybersecurity Analyst,9349200,"Manchester, England",job_type.remote_part_time,job_status.vacant
+37188,42897,Speech-Language Pathologist,3044600,"Auckland, New Zealand",job_type.remote_part_time,job_status.vacant
+25082,79856,Financial Analyst,3761200,"Denver, USA",job_type.onsite_full_time,job_status.vacant
+12081,39792,Insurance Claims Adjuster,6928500,"Chengdu, China",job_type.remote_part_time,job_status.vacant
